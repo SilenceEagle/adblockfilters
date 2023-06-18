@@ -49,7 +49,7 @@ jobs:
         if: steps.commit.outputs.status == 'success' && !cancelled()
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.MY_GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
           
       - name: Delete Workflow Runs
