@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、ADgk、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、Notracking blocklist、1024 hosts、ad-wars hosts、StevenBlack hosts
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-! Version: 20261029114753
-! Last modified: 2026/10/29 11:47:53
-! Blocked domains: 1097810
+! Version: 20261029225139
+! Last modified: 2026/10/29 22:51:39
+! Blocked domains: 1098003
 ! unBlocked domains: 11581
 !
 $$a[href="/js/app.htm?url="]
@@ -129,6 +129,7 @@ $script,third-party,xmlhttprequest,domain=btio.pw
 $script,xmlhttprequest,redirect-rule=noopjs,domain=freesolana.top
 $script,xmlhttprequest,third-party,domain=00ksw.com|01zww.com|0biquge.com|114zw.la|123du.cc|123wxwx.com|138txt.com|147xsw.com|16kxsw.com|17k.com|18xs.org|1biqu.com|1biquge.com|1kanshu.cc|1pwx.com|20dcr.com|22ff.org|230book.com|23hh.com|23qb.net|23us.tw|23wx.la|23wxx.com|23xsww.com|258zw.com|266ks.com|27xsw.com|2952.cc|2baob.com|2kxs.org|2wxs.net|31xiaoshuo.org|33yq.org|360xs.com|3twx.com|3wwd.com|3yt.com|477zw.com|50zw.co|50zw.com|517shu.com|520tingshu.com|52biquge.com|52bqg.net|52xs.net|530p.com|55shuba.com|59xs.com|5atxt.com|5awx.cc|630shu.net|666wx.cc|67shu.net|69shu.org|69zw.org|69zww.com|7017k.net|70txt.com|777zw.la|77dushu.com|7dsw.com|7kwx.com|800xiaoshuo.net|81new.net|81zw.me|86kl.com|86zw.cc|877zw.com|98xiaoshuo.com|99mk.com|99shumeng.net|99xiyue.com|9dxs.com|9tiefu.com|a6ksw.com|abcxs.com|adshuba.com|aikanshu8.com|aitxtsk.com|aixiawx.com|aixswx.com|ajnnan.com|aomolit.com|aoyuge.com|axxsw.org|b5200.net|balingtxt.com|bamxs.com|baoshuu.com|baoshuxuan.com|bbiquge.cc|bdxnc.com|bequgew.com|biduoxs.com|bimiwuu.com|biqiugege8.com|biqiugexsw.com|biqkan.com|biqudd.com|biqudu.tv|biquge.biz|biquge.lu|biquge.tv|biquge11.com|biquge5200.cc|biquge8.cc|biquge98.net|biquge99.cc|biqugecd.com|biqugee.com|biqugeg.com|biqugego.com|biqugeq.com|biqugesc.com|biqugeso.com|biqugewu.net|biqugse.com|biquluo.com|biququ.info|biqusa.com|biqusan.com|biqusk.com|biquw.com|biqux.com|bisowu.com|bixia.org|bixiawu.cc|bjsxjy.com|bodekang.net|boluoxs.com|bookbao.org|bookcheng.com|bookshuku.com|boquge.com|botaodz.com|bqg999.cc|bqkan.com|bqwxg8.com|bshuku.com|bxwx.tw|bxwx3.org|bxwx8.la|bxwxorg.com|changdusk.com|clewx.com|daizhuzai.com|daomengren.com|daomuxsw.com|ddbqgtxt.com|ddsge.com|ddxsku.com|dhzw8.com|didaxiaoshuo.cc|dingdianxs.com|diyibanzhu9.pro|dizishu.com|doupocangqiong1.com|douxunwx.com|dpcq1.com|dpcq1.net|dukankan.com|dushiyanqing.net|dushuge.org|ecxiaoshuo.com|eexiaoshuo.com|etongxs.com|exiaoshuo.com|faquge.com|feiszw.com|fpzw.org|fzknitter.com|gdbzkz.com|geilwx.com|gllmh.com|guanshu.cc|gzbpi.com|haotxt.com|hbfie.org|heikexs.com|heiyan.org|heiyanwang.com|huitailang.org|huixsw.com|hybiquge.com|ibqg5200.com|ibswtan.com|iddwx.com|ikstxt.com|imiaobige.com|iqiwx.com|iqksw.com|ishisetianxia.com|ishubao.org|ixiatxt.com|ixs.cc|ixs.la|iysw.net|janpn.com|jcdf99.com|jianlaixiaoshuo.com|jjxsxzw.com|jmshuwu.net|jx.la|kakuxs.com|kanmaoxian.com|kanshu5.la|kanshushi.com|kenshuzw.com|kkbiqu2.com|ks67.com|kshuwx.com|kuhu168.com|kuxiaoshuo.com|lanrenyuhai.com|lansezw.com|ldks.cc|lewen123.com|liewen.la|lindiankanshu.cc|lingyu.org|liudatxt.com|lnwow.co|lnwow.net|longzu5.net|luoqiu.com|luoqiu.io|lwsktxt.com|lwtxt.net|lwxs6.com|m.yuesehan.com|maxreader.net|mcmssc.com|meiguixsw.com|mgxs.net|mhtwx.la|mibaoge.com|mingrenteahouse.com|mishug.com|moxue99.com|mozhua2.com|mubige.com|mxguan5.com|nitianxieshen.com|nuanyuehanxing.com|okzuowen.com|panqis.cc|paoshu8.com|paoshuzw.com|pfwx.com|piaotian5.net|piaotianwx.com|ppskw.com|prpcoin.com|qbyq.net|qianqianxsw.com|qianrenge.cc|qianxuntxt.com|qiqidu.cc|qiuyewx.com|qqxsnew.net|qqxsw.co|qr1234.com|quanshuwan.com|quge6.com|quledu.net|qushuba.com|ranwen.la|renrenaishu.com|rizhaoxs.com|rmipoz.com|rmxsba.com|sangwu8.com|sbooktxt.com|shanhaimiwenlu.com|shixiaolong.com|shu008.com|shuanshu.com|shuao.org|shuchong.info|shudai.cc|shumil.co|shumilou.com.tw|silukeke.com|siluwx.org|sinodan.cc|sizhicn.com|sjks88.com|skyzww.com|snwx3.com|sobiquge.com|soxscc.com|sqsxs.com|stxsw.com|suyuege.com|swangwx.com|sxcnw.net|taiuu.com|tangsanshu.com|ting56.cc|tsxsw.net|ttzw.tv|tutengzw.com|txt909.com|txtduo.com|txtwan.com|tywx.la|u33.me|uidzhx.com|uubiqu.com|uuxsw8.com|vipsk.org|viviyzw.com|vodtw.la|wenxue6.com|wenxuem.com|wenxuemi.cc|wfqzbh.com|whzh-cw.com|wodexiaoshuo.me|wolaidu.cc|wrlwx.com|wudilong.com|wutuxs.net|x23us.me|x81zw.co|xbiqugecc.com|xbiquke.com|xbiquwx.la|xbqge.net|xbxwx.org|xdingdiann.com|xhxswz.com|xhytd.com|xiaoshuo50.com|xiaoshuobi.cc|xiashuwu.com|xieyixs.com|xinqingdou.com|xinremenxs.com|xinshuhaige.com|xinshula.com|xinxin6.com|xinxs.la|xluochen.com|xntk.org|xqianqian.com|xs386.com|xs5200.com|xs98.com|xsbiqu.com|xshengyan8.com|xshuyaya.com|xstt5.com|xsw55.net|xszww.com|xuanjiezhimen.org|xuanshu.com|xuehongxs.com|xunsilu.com|xxbiquge.net|xxxbiquge.com|xyusk.com|yanyiquan.com|yanyuzw.com|yawenb.com|yb3.cc|yikanxiaoshuoa.com|yingsx.com|youduzw.com|yruan.com|yssm.info|ysxs8.com|yuanzunxs.cc|yunhaixianzong.com|yunlaige.com|yunxs.com|yunyue.cc|yuyougu.com|zaodk.com|zhaishuyuan.com|zhnxcw.com|zhuaji.org|zhuishubox.com|ziyouge.com|zmccx.com|zmtcsy.com|ztv.la|zwdu.com|zydu1.com|zzs5.com|m.shuhaige.*|123ds.org|qimiaoxiaoshuo.com|gaofuwu.org|1yydstxt178.com|vodtw.la|52dus.cc|83novel.com
 $script,xmlhttprequest,third-party,domain=clickndownload.*|clicknupload.*
+$script,xmlhttprequest,third-party,domain=freeokk.pro
 $stylesheet,redirect-rule=noopcss,domain=anisearch.*
 $subdocument,redirect-rule=noopframe,domain=ytlarge.com
 $subdocument,third-party,denyallow=disqus.com,domain=love4u.net
@@ -5227,7 +5228,6 @@ $~third-party,xmlhttprequest,script,redirect-rule=nooptext,domain=zertalious.xyz
 4gtv.tv#%#//scriptlet('prevent-fetch', 'pagead2.googlesyndication.com')
 4horlover.com,a2zapk.dev,adslink.pw,ak77now.pixnet.net,akenini.com,akoam.net,akoam.ws,allacronyms.com,allvideos.me,alt-torrent.com,amtonline.com.br,android-zone.ws,androidaba.com,androidescomplicado.blogspot.com,androidrepublic.org,anime-loads.org,anime7.download,animmex.net,aphim.co,apkmos.com,apnetv.co,apnetv.tv,appvn.com,arianatoday.net,arkforum.de,ausbt.com.au,automobile-catalog.com,avarti.co.il,bdiptv.com,bdiptv.stream,bellathorne.net,bitload.org,bittorrent.am,blackmod.net,blockadblock.com,blogthetech.com,brfiles.com,british-birdsongs.uk,btc.ms,btc4free.site,buenamusica.com,camwhores.co,chimica-online.it,chloemoretz.org,clik.pw,clk.ink,cobachpl8.milaulas.com,coinkurier.de,colorspire.com,computingforgeeks.com,connectwww.com,contract-miner.com,cooltamilhd.com,d-h.st,damasgate.com,dangotoons.com,david-forum.de,dayzrp.com,ddmix.net,desirecourse.com,dl.r3sub.com,dogefaucet.com,dopedgeeks.com,dove-cameron.org,download.pixelexperience.org,dream-sound.com,dslr-forum.de,dundi.it,dupedornot.com,e-dokument.org,easylife.tw,education-load.com,edusaguepa.milaulas.com,egprices.com,eimusics.com,electrical4u.com,emailtemporal.org,enfermeria.gnomio.com,eroxia.com,eslwriting.org,eusouandroid.co,examsleague.co.in,ez3c.tw,faucetcrypto.com,fce365.info,filesharing.io,findwords.info,forumcoin.win,freeapps4y.blogspot.com,freebitcoin.win,freecoursesite.com,freecourseweb.com,freemidi.org,freephonenum.com,freetimelearning.com,freetvall.com,frendx.com,galaxy.gala100.net,gamecode.win,gametimers.it,gay69.stream,gceguide.com,geekdrop.com,geomedia.gala100.net,getfreesmsnumber.com,globalcryptopress.com,globalrph.com,gobits.io,gofobo.com,grafixfather.com,hackerbot.net,htnovo.net,ifate.com,ilcorsaroblu.org,imaginetricks.com,informazionefiscale.it,intoupload.com,ioanbtc.com,ioscreator.com,iphonecake.com,isolaillyon.it,it-times.de,itopmusic.com,jagledam.co,jagledam.com,javadecompilers.com,javstream.com,jcbtechno.com,jkwaveblog.com,jolygram.com,justnerd.it,kadal.club,karaoke-tutor.com,kodi-tutorials.uk,kubadownload.com,kuronotranslations.com,l2network.eu,lamitadmas1.net,lctutors.com.br,leechall.com,lewdzone.com,lik.cl,lingolex.com,linkjust.com,liodonwloads.blogspot.com,lowframe.com,luckybits.io,lustich.de,macappdownload.com,macbed.com,mackungfu.org,maclife.vn,macplanete.com,magesypro.com,majesy.com,makemehost.com,maritimeherald.com,masonlar.org,mcoc-guide.blogspot.co.uk,mcoc-guide.blogspot.com,mcoc-guide.blogspot.in,medicalopium.blogspot.com.br,mertcangokgoz.com,milanworld.net,minhaoperadora.com.br,mixmods.com.br,money.it,mrhowtosay.com,msguides.com,muchfriends.com,myfree-tivi.com,mygoodstream.pw,myicloud.info,myip.ms,myxclip.com,natationpourtous.com,navigaweb.net,nerdmaldito.com,nfhost.me,ngolos.com,nibbits.com,nmac.to,noobslab.com,nulledteam.com,oemdtc.com,ogznet.com,oldskool.vip,olympine.com,omglyrics.com,oneload.co,onlinevideoconverter.com,openelec.tv,ownhax.com,pallok.com,pastpapers.papacambridge.com,pasty.link,pes-patch.com,peytonlist.ru,pipocas.tv,playit.ch,pokexgames-tutoriais.blogspot.com,pornbimbo.com,porndish.com,porngun.net,premiumproxy.net,prgwonders.blogspot.com,programasvirtualespc.net,promipool.de,qmaths.in,railpictures.net,rangdhanu.live,realkana.com,realmofdarkness.net,rule34hentai.net,rumushitung.com,s0ft4pc.com,sabishiidesu.com,sankakucomplex.com,sarapbeh.com,sat-universe.com,satoshilabs.net,script-stack.com,scubidu.eu,sharejunction.com,sinepinoy.net,skmedix.pl,skycloud-exploit.weebly.com,slink.bid,smscodeonline.com,smslisten.com,smsnumbersonline.com,snowfiles.com,sobootlogo.blogspot.com,sofiotheque.info,sorcerers.net,sportsvideo.net,startseite.to,steamid.eu,steamid.uk,stfly.io,stream4free.live,streamlord.com,studydhaba.com,sukkisukki.com,superiorwallpapers.com,superyachtfan.com,syriancivilwarmap.com,techmazza.com,techposts.org,techreviewpro.com,techtunes.co,techtunes.com.bd,techzac.com,tercihiniyap.net,textmechanic.com,themeslide.com,theseotools.net,thewpclub.net,thoptv.net,thuthuatjb.com,tohax.com,topzone.lt,torrent9.uno,trekbbs.com,tricksbest.com,ttorial.com,ttsmp3.com,tubeland.site,tunovelaligera.com,turiver.com,tutoriaux-excalibur.com,tvfree.me,unfriend-app.com,updatesmarugujarat.in,uploadrar.com,url.urlaubspartner.net,utmn.gnomio.com,venipa.net,videoadept.com,videoo.info,vnhax.com,vortez.net,vpnjantit.com,vsthouse.ru,waccoe.com,wakfutemporada2subs.blogspot.com,wallpaper-house.com,wallpaperenginefree.com,wallpapermania.eu,watchcastleonline.com,watchdoctorwhoonline.com,watcheverybodylovesraymond.com,watchparksandrecreation.net,watchpsychonline.net,watchtwoandahalfmenonline.com,webcache.googleusercontent.com,webforefront.com,whackit.co,wizblog.it,wizblogger.com,wowebook.org,wroffle.com,xboxforum.pl,xia1ge.com,yourlifeupdated.net,zeusnews.it,znaki.vxm.pl$$script:contains(/^(?=.{5000,20000}$)(?=.*eval.*babasbmsgx.*$).*/s)
 4hu.tv##.couplet-left
-4hu.tv##.kkm-content
 4hu.tv##.wrap > div.mod > div.row > dl:has(> dt > a[target="_blank"]:not([href^="/html/"]) > img)
 4k123.com##.comeing_wad,.a_pb
 4khd.com##.centbtd
@@ -6674,7 +6674,7 @@ adaa.org#?#.section[role="complementary"] > div[class]:has(> div[class] div[clas
 adamtheautomator.com,laurelberninteriors.com,mediaite.com,packhacker.com,packinsider.com#@#.adthrive
 adblock-tester.com##embed[width="240"]
 adblock-tester.com##object[width="240"]
-adblock.turtlecute.org##.notice_stack > a[rel$="sponsored"]
+adblock.turtlecute.org##.notice_stack > button[data-umami-event*="banner"]
 adbug.cn#@#.google_ads
 add0n.com#?#.content tbody > tr:first-child:contains(Advertisement)
 add0n.com#?#.content tbody > tr:first-child:contains(Advertisement) + tr
@@ -7615,6 +7615,7 @@ amazon.*##.s-search-results > div[data-asin] div[data-component-props*="Sponsore
 amazon.*##.sbv-ad-content-container
 amazon.*##.sbv-video-single-product
 amazon.*##[cel_widget_id*="-creative-desktop_loom-desktop-"]
+amazon.*##[data-card-metrics-id^="universal-detail-ilm-card_"]
 amazon.*##[id^="sponsoredProducts"][id$="_feature_div"]
 amazon.*##div.s-inner-result-item > div.sg-col-inner:has(a.puis-sponsored-label-text)
 amazon.*##div[cel_widget_id*="Deals3Ads"]
@@ -9210,6 +9211,8 @@ audiobookbay.lu##.postContent > table > tbody > tr:has(> td > a > img)
 audiobookbay.lu##a[href^="/dl-14-days-trial"]
 audiobookbay.lu##div[itemprop="description"] + div > a img[style]
 audiobookbay.lu#?##rsidebar > ul > li:has(> h2:contains(ADs))
+audiobookbay.lu#?#.postContent > table > tbody > tr:has(> td > span[style^="display:block;"] > a[href^="/"]:contains(High Speed Downloads))
+audiobookbay.lu#?#.postContent > table > tbody > tr:has(> td > span[style^="display:block;"] > a[href^="/"]:contains(Start Direct Download))
 audiobyray.com##.cat-carousel
 audiocircuit.dk,topmanhuas.org,kinotehnik.net,gamekazi.com,donghuaworld.com,nxbrew.net,gaypornhot.com,ivfauthority.com,pinoyalbums.com,domhouse.it,watchfacebook.com,4allprograms.me,clapway.com#$#body { overflow: auto !important; }
 audiocircuit.dk,topmanhuas.org,kinotehnik.net,gamekazi.com,donghuaworld.com,nxbrew.net,gaypornhot.com,ivfauthority.com,pinoyalbums.com,domhouse.it,watchfacebook.com,4allprograms.me,clapway.com#$#div[id$="-blanket"] { display: none !important; }
@@ -10161,9 +10164,9 @@ base64.m.supfree.net##div.navigation
 base64decode.net##.ad_right_300_250
 base64decode.org##.ad_right_bottom
 base64decode.org##.ad_right_top
-base64decode.org,base64encode.org,beautifyjson.org,minifyjson.org,prettifycss.com,prettifyjs.net,uglifycss.com,uglifyjs.net,urldecoder.org,urlencoder.org,urlencoder.org.prettifycss.com##.ad_header_box
-base64decode.org,base64encode.org,beautifyjson.org,minifyjson.org,prettifycss.com,prettifyjs.net,uglifycss.com,uglifyjs.net,urldecoder.org,urlencoder.org,urlencoder.org.prettifycss.com##.ad_left_box
-base64decode.org,base64encode.org,beautifyjson.org,minifyjson.org,prettifycss.com,prettifyjs.net,uglifycss.com,uglifyjs.net,urlencoder.org,urlencoder.org.prettifycss.com##.ad_right_box
+base64decode.org,base64encode.org,beautifyjson.org,minifyjson.org,prettifycss.com,prettifyjs.net,uglifycss.com,uglifyjs.net,urldecoder.org,urlencoder.org##.ad_header_box
+base64decode.org,base64encode.org,beautifyjson.org,minifyjson.org,prettifycss.com,prettifyjs.net,uglifycss.com,uglifyjs.net,urldecoder.org,urlencoder.org##.ad_left_box
+base64decode.org,base64encode.org,beautifyjson.org,minifyjson.org,prettifycss.com,prettifyjs.net,uglifycss.com,uglifyjs.net,urlencoder.org##.ad_right_box
 base64decode.org,urldecoder.org##.ad_right_bottom_box
 base64decode.org,urldecoder.org##.ad_right_top_box
 baseball-reference.com###content > .adblock
@@ -13245,6 +13248,7 @@ chatgpt.com##section:has(> [aria-label="Sponsored"])
 chatgpt.com#%#(()=>{const e=!1,r=':is(aside, div[role="complementary"])',t=/"ads[A-Z]\w*"\s*:/,o=Reflect.apply,n=e=>{if(!e.matches(r))return!1;for(const r of e.querySelectorAll(':scope > script[type="application/json"]'))if(t.test(r.textContent))return!0;return!1},p=e=>{if(1===e?.nodeType&&n(e))return!0;if(1!==e?.nodeType&&11!==e?.nodeType)return!1;for(const t of e.querySelectorAll(r))if(n(t))return!0;return!1};window.Element.prototype.replaceChildren=new Proxy(window.Element.prototype.replaceChildren,{apply:(r,t,n)=>{try{for(const e of n)if(p(e))return void 0}catch(r){e}return o(r,t,n)}})})();
 chatgpt.com#%#//scriptlet('json-prune', 'messages.*.ads messages.*.renderedAdsHtml')
 chatgpt.com#%#//scriptlet('trusted-json-set', 'WeakMap.prototype.set', '$[?(@.ads_response_id)].*', '$remove$', '', 'arg:1')
+chatgpt.com#%#//scriptlet('trusted-replace-outbound-text', 'TextDecoder.prototype.decode', '"type":"ads","visibility":{"status":"allowed"', '"type":"ads","visibility":{"status":"hidden"')
 chatgpt.com#%#//scriptlet('trusted-replace-outbound-text', 'TextDecoder.prototype.decode', '/(<span\b(?![^>]*\bdata-clear-all)[^>]*\bdata-conversation-control=")assistant-ads"/g', '$1assistant-xds"')
 chatgpt.com#%#//scriptlet('trusted-replace-outbound-text', 'TextDecoder.prototype.decode', '/^\s*\{\s*"type"\s*:\s*"ads"\s*,(?=[^\r\n]*?"ads_request_id"\s*:)[^\r\n]*\}\s*$/', '{}')
 chatgpt.com#?#.opacity-100.transition-opacity.ease-out:contains(Sponsored options)
@@ -14631,6 +14635,24 @@ colamanga.com#%#//scriptlet("prevent-setTimeout", "loadErrorTip")
 colamanga.com#@#.ADFooter
 colamanga.com#@#.ADInfo
 colamanga.com#@#.ADLeader
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##.billboard
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##.exco-video-player
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##.mid-outbrain
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##.piano-article-paywall
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##[data-type="AdRowBillboard"]
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##div.align-right.wrapper > div[class^="sc-"]:has(> div[id^="mpuS"]:only-child)
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##div[class*="AdWrapper"]
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##div[class*="MPUAdWrapper"]
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##div[class*="piano"][class*="-banner"]
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##div[class^="MarkupAds_"]
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##div[class^="helper__AdContainer-"]
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##div[id^="sidebarMPU"]
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com#%#//scriptlet('remove-node-text', 'script', 'await eval')
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com#%#//scriptlet('trusted-replace-argument', 'Element.prototype.setAttribute', '1', '', '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|\[0,window\]|\)\.join\(String\.fromCharCode/')
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com#%#//scriptlet('trusted-replace-argument', 'Element.prototype.setAttribute', '1', 'replace:/.+(error-report|new Promise|:window|&&window,|\|\|window,|void 0\]|html-load\.com[\s\S]*_onerror).+//g')
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com$$script:contains(await eval)
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com$$script[data-cfasync="false"][nowprocket]
+colerainenow.co.uk,ballymenanow.co.uk,lurgannow.co.uk,nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com$$script[onload*="error-report.com"]
 coles.com.au##[data-testid="banner-container-desktop"]
 coles.com.au#?#.coles-targeting-UnitContainer:has(ul.product__top_messaging)
 coles.com.au#?#.list-item[role="presentation"]:has([data-testid="product-tile"]:contains(Sponsored))
@@ -16109,6 +16131,7 @@ dancering.cn##.a_h
 dandanplay.com##div[id$="_ad"],iframe[width="720"][height="90"]
 danet.vn#%#//scriptlet('google-ima3')
 danet.vn#%#//scriptlet('prevent-fetch', '.js?_=')
+danet.vn#%#//scriptlet('prevent-setTimeout', 'offsetHeight')
 danet.vn#%#//scriptlet('trusted-replace-argument', 'String.prototype.includes', '0', '""', 'imasdk.googleapis.com/js/sdkloader/ima3')
 daniao.org##.sponsor
 daniao.org##.wow.fadeInUp.tg-site > a[rel="nofollow"] > img
@@ -28287,6 +28310,7 @@ instapage.com#$#.navbar { top: 0px !important; }
 instapundit.com###adspace_top > .widget-ad__content
 instasexyblog.com##.banner-spot
 instastory.net##div[class^="adp"]
+instructables.com##._promoStickyContainer_19m79_13
 instructables.com##.promo-side
 instrument.com.cn,tool.lu##.swiper-container
 instrumentationtools.com##.inside-right-sidebar > aside[id^="custom_html-"]
@@ -36888,24 +36912,6 @@ nationalreview.com##.ad-skeleton
 nationaltoday.com##.sphinx-popup--16
 nationalworld.com##.Dailymotion__Inner-sc-gmjr3r-1
 nationalworld.com##.bfQGof
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##.billboard
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##.exco-video-player
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##.mid-outbrain
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##.piano-article-paywall
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##[data-type="AdRowBillboard"]
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##div.align-right.wrapper > div[class^="sc-"]:has(> div[id^="mpuS"]:only-child)
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##div[class*="AdWrapper"]
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##div[class*="MPUAdWrapper"]
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##div[class*="piano"][class*="-banner"]
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##div[class^="MarkupAds_"]
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##div[class^="helper__AdContainer-"]
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com##div[id^="sidebarMPU"]
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com#%#//scriptlet('remove-node-text', 'script', 'await eval')
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com#%#//scriptlet('trusted-replace-argument', 'Element.prototype.setAttribute', '1', '', '/error-report|new Promise|;await new|:\[?window|&&window,|void 0\]|location\.href|void 0\|\|window|,window,|void 0,window|\[0,window\]|\)\.join\(String\.fromCharCode/')
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com#%#//scriptlet('trusted-replace-argument', 'Element.prototype.setAttribute', '1', 'replace:/.+(error-report|new Promise|:window|&&window,|\|\|window,|void 0\]|html-load\.com[\s\S]*_onerror).+//g')
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com$$script:contains(await eval)
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com$$script[data-cfasync="false"][nowprocket]
-nationalworld.com,3addedminutes.com,anguscountyworld.co.uk,antrimguardian.co.uk,ballycastlechronicle.co.uk,ballymenaguardian.co.uk,ballymoneychronicle.co.uk,banburyguardian.co.uk,bedfordtoday.co.uk,biggleswadetoday.co.uk,birminghamworld.uk,blackpoolgazette.co.uk,bristolworld.com,bucksherald.co.uk,burnleyexpress.net,buxtonadvertiser.co.uk,carlowlive.ie,chad.co.uk,clarelive.ie,colerainechronicle.co.uk,corklive.ie,daventryexpress.co.uk,derbyshiretimes.co.uk,derbyworld.co.uk,derryjournal.com,derrynow.com,dewsburyreporter.co.uk,doncasterfreepress.co.uk,donegallive.ie,dundalkdemocrat.ie,edinburghnews.scotsman.com,eirebheo.ie,exetertoday.co.uk,expressandstar.com,falkirkherald.co.uk,farminglife.com,fifetoday.co.uk,glasgowworld.com,halifaxcourier.co.uk,harboroughmail.co.uk,harrogateadvertiser.co.uk,hartlepoolmail.co.uk,hemeltoday.co.uk,hucknalldispatch.co.uk,inishlive.ie,ireland-live.ie,kildarenow.com,kilkennypeople.ie,lancasterguardian.co.uk,leightonbuzzardonline.co.uk,leinsterexpress.ie,leinsterleader.ie,leitrimobserver.ie,lep.co.uk,letterkennylive.ie,limerickleader.ie,lincolnshireworld.com,liverpoolworld.uk,londonworld.com,longfordleader.ie,lutontoday.co.uk,manchesterworld.uk,mayonews.ie,meltontimes.co.uk,miltonkeynes.co.uk,nenaghlive.ie,newcastleworld.com,newrydemocrat.com,newryreporter.com,newsletter.co.uk,northamptonchron.co.uk,northantstelegraph.co.uk,northdevongazette.co.uk,northernconstitution.co.uk,northernirelandworld.com,northumberlandgazette.co.uk,nottinghamworld.com,offalyexpress.ie,osuskinner.com,outlooknews.co.uk,peterboroughtoday.co.uk,portsmouth.co.uk,punchestownlive.ie,rotherhamadvertiser.co.uk,scotsman.com,seriousaboutrl.com,shieldsgazette.com,shropshirestar.com,stornowaygazette.co.uk,strabaneweekly.co.uk,sunderlandecho.com,surreyworld.co.uk,sussexexpress.co.uk,themoorlander.co.uk,thescarboroughnews.co.uk,thesouthernreporter.co.uk,thestar.co.uk,tipperarylive.ie,torbayweekly.co.uk,totallysnookered.com,tyronecon.co.uk,tyronecourier.co.uk,ulstergazette.co.uk,wakefieldexpress.co.uk,warwickshireworld.com,waterfordlive.ie,wigantoday.net,worksopguardian.co.uk,yorkshireeveningpost.co.uk,yorkshirepost.co.uk,yourlurgan.com$$script[onload*="error-report.com"]
 nationalworld.com,scotsman.com##.dmpu-item
 nationtalk.ca##.partner-slides
 nationthailand.com##.ads-billboard
@@ -47153,6 +47159,7 @@ softonic.*,softonic-ar.com,softonic-id.com,softonic-th.com##section[data-meta="s
 softonic.com#%#//scriptlet('set-cookie', 'softonic-r2d2-view-state', '1')
 softoxin.com,sozai-good.com#@#.ad_block
 softpanorama.org##table[height="620"]
+softpedia.com###_progfloat
 softpedia.com###_wlts
 softpedia.com###_wlts_lead
 softpedia.com###sjmp > div.grid_48:has(> div[class^="mgtop_"]:only-child > div[id] > iframe[id^="google_ads_iframe"])
@@ -47162,6 +47169,7 @@ softpedia.com##.adwblue
 softpedia.com##.bigatf
 softpedia.com##.sng-widget
 softpedia.com##a.mgleft_40 > img[width="728"]
+softpedia.com##a[href="https://www.aptum.com/"]
 softpedia.com##a[style*="width: 970px; height: 90px;"]
 softpedia.com##div[class^="grid"]:has(> hr:first-child + .ad:last-child)
 softpedia.com##div[class^="grid"][style="display: none !important;"] + .grid_48:has(> hr:only-child)
@@ -48936,6 +48944,8 @@ sweclockers.com##body .ad:not(#style_important)
 swedroid.se###Sony_ad
 swedroid.se##.col > section:has(> div.textwidget > div[align="center"] > script[src^="https://lwadm.com/"])
 sweepsdb.com##tbody.sponsored
+sweepstakesfanatics.com###railad1
+sweepstakesfanatics.com##.top-ad-container-parent
 sweetdeals.com#@#a[href*="https://www.sweetdeals.com/"] img
 sweethentai.com##.long-ads
 sweethentai.com##[href^="https://gadlt.nl/"]
@@ -53071,6 +53081,7 @@ tvtropes.org#$#.ad-content-top { min-height:1px!important; }
 tvtropes.org#$#.bigcrunch-unit { display: none !important; }
 tvtropes.org#$#.sb-fad-unit { visibility: collapse !important; }
 tvtropes.org#$#.tvtropes-ad-unit { visibility: collapse !important; min-height: 1px !important; padding: 0 !important; }
+tvtropes.org#%#//scriptlet('prevent-element-src-loading', 'script', '/googletagmanager|bigcrunch|googlesyndication|doubleclick|googletagservices/')
 tvtropes.org#%#//scriptlet('prevent-setTimeout', '/googletagmanager|offsetHeight/')
 tvtropes.org#@##mobile_1
 tvtropes.org#@##mobile_2
@@ -53078,7 +53089,6 @@ tvtropes.org#@##stick-cont
 tvtropes.org#@#.sb-fad-unit
 tvtropes.org#@#.square_fad
 tvtropes.org#@#.tvtropes-ad-unit
-tvtropes.org$$script:contains(window.pbjs)
 tvtv.ca,tvtv.us###app > div.MuiBox-root + div.MuiBox-root > div.MuiPaper-root.MuiPaper-elevation
 tvtv.ca,tvtv.us###app > div.MuiBox-root + div.MuiPaper-root.MuiPaper-elevation
 tvtv.ca,tvtv.us##.MuiBox-root > div.MuiPaper-root.MuiPaper-elevation.mui-fixed:not([id])
@@ -55310,6 +55320,8 @@ wareable.com##.dfp-article-banner
 warecracks.com,websiteoutlook.com##[rel="nofollow"]
 waredata.com###adblock-backdrop
 waredata.com###adblock-overlay
+warez-db.org##.wd-promo
+warez-db.org##.wd-vpn
 warezcrack.net##a[href^="http://felafk.com/r/"]
 warezload.net##.wrapper > center > center > [href]
 warfarehistorynetwork.com##[href="http://www.bktravel.com/"]
@@ -65613,6 +65625,7 @@ zzzyk.com###Tinfo
 ||1chat1.activpl-pro.site^
 ||1chat1.pro-activprofit.site^
 ||1chris0wnz420.no-ip.biz^
+||1chtx8re2.com^
 ||1cimslrk3.com^
 ||1cito.com^
 ||1ckbfk08k.de^
@@ -75202,6 +75215,7 @@ zzzyk.com###Tinfo
 ||4kwu.cc/static/js/tj.js
 ||4kx.xyz^
 ||4l.vlgtgclmpk95tbf.cyou^
+||4l0h5xxoc.com^
 ||4l3lwbxxptwh7cngk7bw.cyou^
 ||4l44vg22.hair^
 ||4l5bbkug99.com^
@@ -78002,6 +78016,7 @@ zzzyk.com###Tinfo
 ||60bd5b1d85.nxcli.io^
 ||60c8efb763061fe0e19e44a3a2c3298c.maxgro.pl^
 ||60checks.com^
+||60cxjeiyq.com^
 ||60d4631eb3.com^
 ||60d5acb6460b4221.com^
 ||60delight.daglarho.ru^
@@ -79170,6 +79185,7 @@ zzzyk.com###Tinfo
 ||6a288eb054.com^
 ||6a2d92a9d242d7b5e453154c--sweet-tarsier-be1a2a.netlify.app^
 ||6a4876c08c.com^
+||6a4oabslx.com^
 ||6a575669-94eb-45e9-a5bc-233748f18528-00-1k1l58kvcn9w4.riker.replit.dev^
 ||6a67bcb892.144a54939d.com^
 ||6a6a8b8cff.5ca014db2d.com^
@@ -83580,6 +83596,7 @@ zzzyk.com###Tinfo
 ||8nocturnalkernal.no-ip.biz^
 ||8noqakvfqovsgund.serveftp.com^
 ||8nqp2.ur5tyhny69q53nntcz.cyou^
+||8nqye9t119qtlmv8pc6ry8.rest^
 ||8nr2bisa.ru^
 ||8nr2wkp.hair^
 ||8nst.com^
@@ -93642,6 +93659,7 @@ zzzyk.com###Tinfo
 ||abidebrokestow.com^
 ||abidepeachy.com^
 ||abiderestless.com^
+||abidersstaio.com^
 ||abideruledestiny.com^
 ||abidjaffri.com^
 ||abidou7.ddns.net^
@@ -117347,6 +117365,7 @@ zzzyk.com###Tinfo
 ||aileen-novel.online/wp-content/uploads/*/*/*.gif
 ||aileencriminal.com^
 ||aileenstudents.com^
+||aileenunlittuilyie.cyou^
 ||ailegr0lokalnie-goods.63421324.xyz^
 ||ailegro-iokalnie.online^
 ||ailegro-lokainle-935271.fun^
@@ -117827,6 +117846,7 @@ zzzyk.com###Tinfo
 ||airborneclub.com^
 ||airbornemiser.com^
 ||airbornepensioneradversary.com^
+||airbornvolente.cfd^
 ||airbourne-france.fr^
 ||airbrake.io^
 ||airbrushing.se^
@@ -118635,6 +118655,7 @@ zzzyk.com###Tinfo
 ||ajilix.software^
 ||ajillionmax.com^
 ||ajip.pluscargoperu.net^
+||ajipgohhkuykk.site^
 ||ajipibi.net^
 ||ajirharkisfrance.fr^
 ||ajisaijapanesenyc.com^
@@ -118644,6 +118665,7 @@ zzzyk.com###Tinfo
 ||ajiwqbfh.com^
 ||ajizkkarmlzxb.space^
 ||ajjerseys.top^
+||ajjgakza.in^
 ||ajjgune.cn^
 ||ajjhtetv87.com^
 ||ajjjqws1fkxx42.com^
@@ -140202,6 +140224,7 @@ zzzyk.com###Tinfo
 ||alpivesta.live^
 ||alpivestatrade.com^
 ||alpixtrack.com^
+||alpjlqibxyerhb.com^
 ||alplean.space^
 ||alpmjtkxs.xyz^
 ||alpnia.com^
@@ -153298,6 +153321,7 @@ zzzyk.com###Tinfo
 ||aod4.societegenerale.fr^
 ||aod719.bloominggood.fr^
 ||aod719.bloominggood.nl^
+||aodadkcyybdaz.space^
 ||aodagency.com^
 ||aodai123.no-ip.biz^
 ||aodaichandung.com^
@@ -157277,6 +157301,7 @@ zzzyk.com###Tinfo
 ||apmebf.com^
 ||apmebf.com^$third-party
 ||apmgate.orange.ro^
+||apmginternational.matomo.cloud^
 ||apmmonacofrance.fr^
 ||apmntclfntdy.com^
 ||apmplus.ap-southeast-1.volces.com^
@@ -163507,6 +163532,7 @@ zzzyk.com###Tinfo
 ||armeniannye.com^
 ||armeniyarsenov.pw^
 ||armenpress.org^
+||armerbushie.com^
 ||armetsrcu.asia^
 ||armetsremoved.guru^
 ||armfhefszehro.site^
@@ -168893,6 +168919,7 @@ zzzyk.com###Tinfo
 ||atento-help.com^
 ||ateofakist.cfd^
 ||ateoildim.club^
+||ateokdjelezid.site^
 ||ater78.cyou^
 ||ateradata.com^
 ||aterapanel.com^
@@ -174589,6 +174616,7 @@ zzzyk.com###Tinfo
 ||avkauywgzdxlx.online^
 ||avkdubai.com^
 ||avkipjyasamupcq.website^
+||avkmgwykmovxx.site^
 ||avkqcf.cfd^
 ||avkszbsmzamaj.site^
 ||avkuy.com/wp-content/uploads/*/*.webp
@@ -186293,6 +186321,7 @@ zzzyk.com###Tinfo
 ||bcfk.me^
 ||bcfrmjrhbshgui.com^
 ||bcftrk.novuna.co.uk^
+||bcfykbmrntjwj.space^
 ||bcg.geleidehond.be^
 ||bcg.mybluehost.me^
 ||bcgame.top^
@@ -188101,6 +188130,7 @@ zzzyk.com###Tinfo
 ||bedi24.ga^
 ||bedianmotor.com^
 ||bediiningsonline.store^
+||bedikahpoleathrive.qpon^
 ||bedintsatleecaptate.cfd^
 ||bedioger.com^
 ||bedip.info^
@@ -195804,6 +195834,7 @@ zzzyk.com###Tinfo
 ||biletmerkez.com^
 ||biletweb.fr^
 ||bilety-pl.club^
+||bilflkkfjpufu.website^
 ||bilgebotchy.com^
 ||bilgekent.net^
 ||bilgerak.com^
@@ -196545,6 +196576,7 @@ zzzyk.com###Tinfo
 ||binomo.g2afse.com^
 ||binomo.in^
 ||binomo.info^
+||binomo.vip^
 ||binomo1.com^
 ||binomo2.zendesk.com^
 ||binomocadastro.com^
@@ -198437,6 +198469,7 @@ zzzyk.com###Tinfo
 ||bitsdigit.com^
 ||bitsell.info^
 ||bitserverlux.com^
+||bitsfagald.com^
 ||bitsgapplatform.com^
 ||bitsget.org^
 ||bitsgifts.com^
@@ -201200,6 +201233,7 @@ zzzyk.com###Tinfo
 ||blinkweb.website^
 ||blinnowther.com^
 ||blinq.me^
+||blinterrayage.qpon^
 ||blintzehouser.qpon^
 ||blioiiniteriowy.com^
 ||blioiniteriowy.com^
@@ -209492,6 +209526,7 @@ zzzyk.com###Tinfo
 ||bqyjxdrxsq.web.app^
 ||bqymbyybyknja.top^
 ||bqyxcqnjdnvrs.site^
+||bqzpyynrbelvt.online^
 ||br-2421-e33d1fb574e7ab7ede884f69e0b147de-p4rfo63nt-acq-ui-eng.vercel.app^
 ||br-2441-02ced9604df3a000f4dfe50e3a1d1e06-qfq8dcdsu-acq-ui-eng.vercel.app^
 ||br-ad-lgsmartad-com.aws-prd.net^
@@ -213316,6 +213351,7 @@ zzzyk.com###Tinfo
 ||brrhgrocarsharing.eccocar.com^
 ||brrindeed.com^
 ||brrmpm.skanskin.kr^
+||brrmtdkvualtw.space^
 ||brrwd.com^
 ||brrymylzryxdd.site^
 ||brrypqjrqvn.com^
@@ -214566,6 +214602,7 @@ zzzyk.com###Tinfo
 ||btbbt.cc/jstb.js
 ||btbeacdhrdt.com^
 ||btbecomingeesupportdesk.weebly.com^
+||btbhhjllyrtdg.website^
 ||btbmentoring.connectr.co.uk^
 ||btbroadband22.flazio.com^
 ||btbroadbandservice1.weebly.com^
@@ -219242,6 +219279,7 @@ zzzyk.com###Tinfo
 ||bwfwemlsbge.duckdns.org^
 ||bwfwxekupvrru.online^
 ||bwg-whatsapp.com^
+||bwgabpdgm.com^
 ||bwgbqdhuyvkqu.site^
 ||bwgy96f-h17f.vercel.app^
 ||bwh-whatsapp.com^
@@ -222734,6 +222772,7 @@ zzzyk.com###Tinfo
 ||caframeworklong.com^
 ||cafranchecomte.fr^
 ||cafrem.fun^
+||cafrulchqsfya.space^
 ||caftdunt.no-ip.org^
 ||caftee.com^
 ||cafumo.cybersvaults.com^
@@ -232265,6 +232304,7 @@ zzzyk.com###Tinfo
 ||ccwqjgycmojrg.site^
 ||ccwsringers.cyou^
 ||ccwtz.mindgrasp.ai^
+||ccwxfdxetlkpe.site^
 ||ccx.cococx.com^
 ||ccx.mybluehost.me^
 ||ccxcce.hopto.org^
@@ -263645,6 +263685,7 @@ zzzyk.com###Tinfo
 ||coolestpod.com^
 ||coolestreactionstems.com^
 ||coolex.site^
+||cooleyshivery.com^
 ||coolfacecf.com^
 ||coolfenxi.com^
 ||coolfiles.toget.com.tw^
@@ -265529,6 +265570,7 @@ zzzyk.com###Tinfo
 ||cossdlakazdego.website^
 ||cossette.com^
 ||cosshencoital.com^
+||cosshentritium.qpon^
 ||cossidnaphtha.qpon^
 ||cossiekroi.pl^
 ||cossieniewydarzy.xyz^
@@ -276013,6 +276055,7 @@ zzzyk.com###Tinfo
 ||cvbdrrtmak.cf^
 ||cvbdw.xyz^
 ||cvbdxmak.cf^
+||cvbictrinlper.website^
 ||cvbjetgbzkhpm.site^
 ||cvbjodgklr.shop^
 ||cvbmak.cf^
@@ -284665,7 +284708,6 @@ zzzyk.com###Tinfo
 ||danaindonesia-l.netlify.app^
 ||danaineoxbowsquaggas.cyou^
 ||danaineuveas.com^
-||danainstan.xyz^
 ||danair.es^
 ||danakagetrsm.vercel.app^
 ||danakilaskarel.com^
@@ -294188,6 +294230,7 @@ zzzyk.com###Tinfo
 ||dbhyflmvdngif.site^
 ||dbierzkod.pl^
 ||dbijezouim.com^
+||dbik.literatur-couch.de^
 ||dbimages.com^
 ||dbimej.today^
 ||dbin240.ddns.net^
@@ -309341,6 +309384,7 @@ zzzyk.com###Tinfo
 ||djucew6ul1t0k.cloudfront.net^
 ||djugoogs.com^
 ||djummer.com^
+||djumyfvjyzhpb.site^
 ||djunocebe.site^
 ||djunreal.co.uk^
 ||djupfondstad.click^
@@ -309559,6 +309603,7 @@ zzzyk.com###Tinfo
 ||dkbicq.elektramat.nl^
 ||dkbillly.run^
 ||dkbl5clksl9lz.cloudfront.net^
+||dkblrfswpvjev.online^
 ||dkbplndtgstzj.site^
 ||dkbsms.com^
 ||dkbtan.com^
@@ -311272,6 +311317,7 @@ zzzyk.com###Tinfo
 ||dnhovercraft.tld.cc^
 ||dnhrxt.kintetsu-re.co.jp^
 ||dnht95ajef6hr.cloudfront.net^
+||dnhtilewhckzw.site^
 ||dnhtrust.org^
 ||dnhyakcwoedah.com^
 ||dni-adops-proxy-prod-adopsmediaconverter.mercury.dnitv.com/*.mp4$domain=vvvvid.it
@@ -322295,6 +322341,7 @@ zzzyk.com###Tinfo
 ||duitpanas.top^
 ||duiunmaigiqiy.space^
 ||duivar.blog^
+||duivzkwdukyli.site^
 ||duiwai.baidu.com^
 ||duiwcg72w56ze.cloudfront.net^
 ||duiwebinar.org^
@@ -324029,6 +324076,7 @@ zzzyk.com###Tinfo
 ||dxjky.no-ip.biz^
 ||dxjog.buzz^
 ||dxk5g04fo96r4.cloudfront.net^
+||dxkakeypxrckb.site^
 ||dxkdxkf.ch^
 ||dxkit.buzz^
 ||dxkkb5tytkivf.cloudfront.net^
@@ -332073,6 +332121,7 @@ zzzyk.com###Tinfo
 ||eengbalu.fun^
 ||eengilee.xyz^
 ||eennme.vidaxl.sk^
+||eenoaknujqooa.space^
 ||eensoans.com^
 ||eentent.streampiay.me^
 ||eenul.com^
@@ -334230,6 +334279,7 @@ zzzyk.com###Tinfo
 ||eki-usernet.linkpc.net^
 ||eki.poszyq.cn^
 ||eki1-nunazst.com^
+||ekibaxrmvurda.online^
 ||ekibun.net^
 ||ekicomjp.qianzhanzhu.com^
 ||ekifavom.bazar^
@@ -341172,6 +341222,7 @@ zzzyk.com###Tinfo
 ||enrageobesejan.com^
 ||enrageperplexparable.com^
 ||enrailtwiddly.cfd^
+||enraptdancery.com^
 ||enraptureceremony.com^
 ||enrapturepervasivedrizzle.com^
 ||enrdis.fr^
@@ -342708,6 +342759,7 @@ zzzyk.com###Tinfo
 ||eplukorxrmfvy.site^
 ||eplurik.shop^
 ||eplus.genthis.cfd^
+||eplzdslcmplqg.space^
 ||epm.mailperformance.com^
 ||epmads.com^
 ||epmail.com^
@@ -346729,6 +346781,7 @@ zzzyk.com###Tinfo
 ||esx.mybluehost.me^
 ||esxemulator.com^
 ||esxi02.goasrv.com^
+||esxjxxbnkfozw.space^
 ||esxpedia.fr^
 ||esxxcuyrkvnjj.site^
 ||esy.mybluehost.me^
@@ -348138,6 +348191,7 @@ zzzyk.com###Tinfo
 ||eu-oferta01429.sbs^
 ||eu-oferta11092.sbs^
 ||eu-oferta49818453.click^
+||eu-office.events.data.microsoft.com^
 ||eu-official.shop^
 ||eu-onrt-stsdk.vivoglobal.com^
 ||eu-ort-stsdk.vivoglobal.com^
@@ -351252,6 +351306,7 @@ zzzyk.com###Tinfo
 ||evrimdus.com^
 ||evrisure.fr^
 ||evriteam.com^
+||evrlbehgntzaz.online^
 ||evrleu-trackdepot.com^
 ||evrmotorsport.com^
 ||evrmwlh0dl.com^
@@ -352931,6 +352986,7 @@ zzzyk.com###Tinfo
 ||exitblocked.com^
 ||exited1.zapto.org^
 ||exitedacityedacityitem.com^
+||exitedbrassia.cfd^
 ||exitexchange.com^
 ||exitexplosion.com^
 ||exitexplosion.com^$third-party
@@ -359086,6 +359142,7 @@ zzzyk.com###Tinfo
 ||farlestanghan.space^
 ||farleylathee.com^
 ||farlivex.live^
+||farlquire.qpon^
 ||farm-cn.plista.com^
 ||farm-layrzero.com^
 ||farm-opros.top^
@@ -369861,6 +369918,7 @@ zzzyk.com###Tinfo
 ||finvestings.com^
 ||finvestree.com^
 ||finvetkorm.org^
+||finvex.site^
 ||finvexo.de^
 ||finviatrade.de^
 ||finvioprestige-platform.com^
@@ -374984,6 +375042,7 @@ zzzyk.com###Tinfo
 ||flnand.online^
 ||flncauuqak.com^
 ||flndmyiove.com^
+||flneurtagula.qpon^
 ||flneurtoyed.tech^
 ||flnfeuesmzmzy.online^
 ||flnfvvsncgoh.org^
@@ -376649,6 +376708,7 @@ zzzyk.com###Tinfo
 ||fodyque.com^
 ||fodziw.win^
 ||foe-le.fit^
+||foehnscopens.cyou^
 ||foelikedeplace.com^
 ||foeniculum.xyz^
 ||foenum.space^
@@ -377324,6 +377384,7 @@ zzzyk.com###Tinfo
 ||foodyplates.com^
 ||foodyuiw.com^
 ||fooface.com^
+||foofphnczekux.website^
 ||foohello.work^
 ||foohurfe.com^
 ||fooid.xyz^
@@ -384436,6 +384497,7 @@ zzzyk.com###Tinfo
 ||frikisex.com^
 ||fril-jp.xyz^
 ||frilanced.site^
+||frillswinkers.com^
 ||frilly-preference.pro^
 ||frillyheat.pro^
 ||frilman.com^
@@ -385105,6 +385167,7 @@ zzzyk.com###Tinfo
 ||frtihyvwigowg.online^
 ||frtkarahan.com^
 ||frtn.socdm.com^
+||frtnjycaafwmd.space^
 ||frtnoquwhksdm.space^
 ||frtoi.calpaktravel.com^
 ||frtortuga.fr^
@@ -385340,6 +385403,7 @@ zzzyk.com###Tinfo
 ||fsale.shop^
 ||fsalfrwdr.com^
 ||fsamon.com^
+||fsaqysvqyviav.space^
 ||fsasafsaf215.xyz^
 ||fsastore.evergage.com^
 ||fsastudio.com^
@@ -387844,6 +387908,7 @@ zzzyk.com###Tinfo
 ||fussescureeeless.info^
 ||fussesperdix.cyou^
 ||fussy-community.pro^
+||fussyhiccup.qpon^
 ||fussyreturn.com^
 ||fussytarbet.space^
 ||fustavi.shop^
@@ -388982,6 +389047,7 @@ zzzyk.com###Tinfo
 ||fyzoceu.pro^
 ||fyzoqppdyllsr.store^
 ||fyzuvejemuxoqiw.info^
+||fyzxtimchkadr.space^
 ||fyzzxb.chaisepro.fr^
 ||fz.bzot.top^
 ||fz.letv.com^
@@ -394186,6 +394252,7 @@ zzzyk.com###Tinfo
 ||gcmwodwqcaqjw.space^
 ||gcmx.net^
 ||gcmyatlrlm.site^
+||gcmzdwnwegmkr.online^
 ||gcmzp.leatherman.com^
 ||gcn-1nterc.com^
 ||gcn.tuv.com^
@@ -399031,6 +399098,7 @@ zzzyk.com###Tinfo
 ||ghaires.com^
 ||ghaitak.com^
 ||ghaityastajib.store^
+||ghajwnobhfsb.com^
 ||ghallagherstudent.com^
 ||ghan.com^
 ||ghana147.no-ip.biz^
@@ -400902,6 +400970,7 @@ zzzyk.com###Tinfo
 ||gizmomartbd.com^
 ||gizmona.com^
 ||gizmopage.com^
+||gizmos.lastchancefishingadventures.com^
 ||gizmosnazzy.com^
 ||gizmotryout.xyz^
 ||gizokraijaw.net^
@@ -401066,6 +401135,7 @@ zzzyk.com###Tinfo
 ||gjx.aximpoilc.com^
 ||gjxcyoumsb.top^
 ||gjxczx.xyz^
+||gjxlzzeitkmoo.space^
 ||gjxmcla.pro^
 ||gjxoqgdozssvh.website^
 ||gjxqkypxmgevy.website^
@@ -401483,6 +401553,7 @@ zzzyk.com###Tinfo
 ||glaptoos.net^
 ||glareart.com^
 ||glared.ga^
+||glaredamorphalyam.qpon^
 ||glaredimmethodppical.info^
 ||glareestradad.com^
 ||glareoutgoingthey.com^
@@ -419662,6 +419733,7 @@ zzzyk.com###Tinfo
 ||gripping-bread.com^
 ||grippingdelay.com^
 ||gripplerusines.qpon^
+||gripplesnapedolci.cyou^
 ||gripqueer.com^
 ||gripspigyard.com^
 ||gripstrophy.co^
@@ -421674,6 +421746,7 @@ zzzyk.com###Tinfo
 ||gtcdrom.com^
 ||gtceaolbutc.ratkings.net^
 ||gtcinfight.cfd^
+||gtciyzfrtkmkg.website^
 ||gtcmnt.pl^
 ||gtcntr.enamya.me^
 ||gtcompany.com^
@@ -427720,6 +427793,7 @@ zzzyk.com###Tinfo
 ||gtxlpfirefly.000webhostapp.com^
 ||gtxnb.no-ip.org^
 ||gty.singermali.com^
+||gtychirzxljfl.online^
 ||gtyenqlhhinew.online^
 ||gtyh2.makeup^
 ||gtyrhq.voetbalshirtskoning.be^
@@ -429410,6 +429484,7 @@ zzzyk.com###Tinfo
 ||gvust.net^
 ||gvv.logmeincloud.com^
 ||gvvbs.springrose.co^
+||gvveikqjneuwp.website^
 ||gvvkf.moventashop.com^
 ||gvvoeqokbsewm.space^
 ||gvwconsulting.com^
@@ -429777,6 +429852,7 @@ zzzyk.com###Tinfo
 ||gxddrtwbsc.cfd^
 ||gxdf0o.webwave.dev^
 ||gxdmxx.com^
+||gxdniglnuwqze.website^
 ||gxdoc.pics^
 ||gxdrytainoxadwy.xyz^
 ||gxdys.com^
@@ -434266,6 +434342,7 @@ zzzyk.com###Tinfo
 ||hapticswasher.com^
 ||hapticvibe.com^
 ||hapticxema.cyou^
+||haptorsubnesssorrowy.cyou^
 ||hapuget.host^
 ||hapuloze.com^
 ||hapumgroups.xyz^
@@ -434502,6 +434579,7 @@ zzzyk.com###Tinfo
 ||hareminalikorma.com^
 ||haremnick.com^
 ||haremo.xyz^
+||harenutreroofopsonia.cyou^
 ||harequill-idsvzf--68080014110241.stormkit.dev^
 ||haresdofer.host^
 ||hareskow.com^
@@ -439765,6 +439843,7 @@ zzzyk.com###Tinfo
 ||helpful-teal-wemfvl3j.edgeone.dev^
 ||helpful-web.com^
 ||helpful-web.com^$third-party
+||helpfulavenue.com^
 ||helpfulbrass.com^
 ||helpfulcloister.com^
 ||helpfulwebrobot.com^
@@ -444453,6 +444532,7 @@ zzzyk.com###Tinfo
 ||hlhtylivs.shop^
 ||hlhyzh.fann.cz^
 ||hlife.site^
+||hliixlxfwjaia.online^
 ||hlijd.stitchgolf.com^
 ||hlilaf44erick.xyz^
 ||hlingxbm.xyz^
@@ -444751,6 +444831,7 @@ zzzyk.com###Tinfo
 ||hmpzan.seallinegear.com^
 ||hmqejxnbcbdej.space^
 ||hmqffaybunxokyanpnxi-9blg-ggh.vercel.app^
+||hmqjvzacsnpsm.site^
 ||hmqmdnkyafnp.com^
 ||hmqzhs0csdealn.ru^
 ||hmrc-tax.xyz^
@@ -444858,6 +444939,7 @@ zzzyk.com###Tinfo
 ||hnepoee.com^
 ||hnfcfh.com^
 ||hnfch.com^
+||hnfdfjusxjgzw.space^
 ||hnfjx.com^
 ||hnfnd.thehouseofnoa.com^
 ||hnfnjn.xyz^
@@ -447815,6 +447897,7 @@ zzzyk.com###Tinfo
 ||horseas32.xyz^
 ||horsebackcastle.com^
 ||horsed44.com^
+||horsedfulgour.cyou^
 ||horsefingercoffee.com^
 ||horseliker.ac.ug^
 ||horseload34.no-ip.biz^
@@ -450144,6 +450227,7 @@ zzzyk.com###Tinfo
 ||hqvldtiayuvrho.com^
 ||hqvrvageaf.com^
 ||hqvuonuls.xyz^
+||hqvvnmeyqhjdp.website^
 ||hqvxdvwxuoiuxec.com^
 ||hqwa.xyz^
 ||hqwt.pm7cui.cfd^
@@ -451000,10 +451084,10 @@ zzzyk.com###Tinfo
 ||html-load.com^$script,important,domain=pons.com
 ||html-load.com^$script,xmlhttprequest,domain=astrozop.com|criczop.com|feedzop.com|gamezop.io|gamezop.com|quizzop.com|umogames.com
 ||html-load.com^$script,xmlhttprequest,domain=buienalarm.nl|buienalarm.nl|meteoradar.co.uk|meteox.com|niederschlagsradar.de|sat24.com|weerslag.nl|weerplaza.nl|buienalarm.be
+||html-load.com^$script,xmlhttprequest,domain=colerainenow.co.uk|ballymenanow.co.uk|lurgannow.co.uk|nationalworld.com|3addedminutes.com|anguscountyworld.co.uk|antrimguardian.co.uk|ballycastlechronicle.co.uk|ballymenaguardian.co.uk|ballymoneychronicle.co.uk|banburyguardian.co.uk|bedfordtoday.co.uk|biggleswadetoday.co.uk|birminghamworld.uk|blackpoolgazette.co.uk|bristolworld.com|bucksherald.co.uk|burnleyexpress.net|buxtonadvertiser.co.uk|carlowlive.ie|chad.co.uk|clarelive.ie|colerainechronicle.co.uk|corklive.ie|daventryexpress.co.uk|derbyshiretimes.co.uk|derbyworld.co.uk|derryjournal.com|derrynow.com|dewsburyreporter.co.uk|doncasterfreepress.co.uk|donegallive.ie|dundalkdemocrat.ie|edinburghnews.scotsman.com|eirebheo.ie|exetertoday.co.uk|expressandstar.com|falkirkherald.co.uk|farminglife.com|fifetoday.co.uk|glasgowworld.com|halifaxcourier.co.uk|harboroughmail.co.uk|harrogateadvertiser.co.uk|hartlepoolmail.co.uk|hemeltoday.co.uk|hucknalldispatch.co.uk|inishlive.ie|ireland-live.ie|kildarenow.com|kilkennypeople.ie|lancasterguardian.co.uk|leightonbuzzardonline.co.uk|leinsterexpress.ie|leinsterleader.ie|leitrimobserver.ie|lep.co.uk|letterkennylive.ie|limerickleader.ie|lincolnshireworld.com|liverpoolworld.uk|londonworld.com|longfordleader.ie|lutontoday.co.uk|manchesterworld.uk|mayonews.ie|meltontimes.co.uk|miltonkeynes.co.uk|nenaghlive.ie|newcastleworld.com|newrydemocrat.com|newryreporter.com|newsletter.co.uk|northamptonchron.co.uk|northantstelegraph.co.uk|northdevongazette.co.uk|northernconstitution.co.uk|northernirelandworld.com|northumberlandgazette.co.uk|nottinghamworld.com|offalyexpress.ie|osuskinner.com|outlooknews.co.uk|peterboroughtoday.co.uk|portsmouth.co.uk|punchestownlive.ie|rotherhamadvertiser.co.uk|scotsman.com|seriousaboutrl.com|shieldsgazette.com|shropshirestar.com|stornowaygazette.co.uk|strabaneweekly.co.uk|sunderlandecho.com|surreyworld.co.uk|sussexexpress.co.uk|themoorlander.co.uk|thescarboroughnews.co.uk|thesouthernreporter.co.uk|thestar.co.uk|tipperarylive.ie|torbayweekly.co.uk|totallysnookered.com|tyronecon.co.uk|tyronecourier.co.uk|ulstergazette.co.uk|wakefieldexpress.co.uk|warwickshireworld.com|waterfordlive.ie|wigantoday.net|worksopguardian.co.uk|yorkshireeveningpost.co.uk|yorkshirepost.co.uk|yourlurgan.com
 ||html-load.com^$script,xmlhttprequest,domain=fitbook-magazine.com|myhomebook-magazine.com|petbook-magazine.com
 ||html-load.com^$script,xmlhttprequest,domain=fmradiofree.com|internetradio-horen.de|radio-norge.org|radio-danmark.dk|radio-hrvatska.com|radio-australia.org|radio-osterreich.at
 ||html-load.com^$script,xmlhttprequest,domain=gamesider.com|harpersbazaar.fr|uppercutmma.com|techbook-magazine.com|travelbook-magazine.com|femmeactuelle.fr
-||html-load.com^$script,xmlhttprequest,domain=nationalworld.com|3addedminutes.com|anguscountyworld.co.uk|antrimguardian.co.uk|ballycastlechronicle.co.uk|ballymenaguardian.co.uk|ballymoneychronicle.co.uk|banburyguardian.co.uk|bedfordtoday.co.uk|biggleswadetoday.co.uk|birminghamworld.uk|blackpoolgazette.co.uk|bristolworld.com|bucksherald.co.uk|burnleyexpress.net|buxtonadvertiser.co.uk|carlowlive.ie|chad.co.uk|clarelive.ie|colerainechronicle.co.uk|corklive.ie|daventryexpress.co.uk|derbyshiretimes.co.uk|derbyworld.co.uk|derryjournal.com|derrynow.com|dewsburyreporter.co.uk|doncasterfreepress.co.uk|donegallive.ie|dundalkdemocrat.ie|edinburghnews.scotsman.com|eirebheo.ie|exetertoday.co.uk|expressandstar.com|falkirkherald.co.uk|farminglife.com|fifetoday.co.uk|glasgowworld.com|halifaxcourier.co.uk|harboroughmail.co.uk|harrogateadvertiser.co.uk|hartlepoolmail.co.uk|hemeltoday.co.uk|hucknalldispatch.co.uk|inishlive.ie|ireland-live.ie|kildarenow.com|kilkennypeople.ie|lancasterguardian.co.uk|leightonbuzzardonline.co.uk|leinsterexpress.ie|leinsterleader.ie|leitrimobserver.ie|lep.co.uk|letterkennylive.ie|limerickleader.ie|lincolnshireworld.com|liverpoolworld.uk|londonworld.com|longfordleader.ie|lutontoday.co.uk|manchesterworld.uk|mayonews.ie|meltontimes.co.uk|miltonkeynes.co.uk|nenaghlive.ie|newcastleworld.com|newrydemocrat.com|newryreporter.com|newsletter.co.uk|northamptonchron.co.uk|northantstelegraph.co.uk|northdevongazette.co.uk|northernconstitution.co.uk|northernirelandworld.com|northumberlandgazette.co.uk|nottinghamworld.com|offalyexpress.ie|osuskinner.com|outlooknews.co.uk|peterboroughtoday.co.uk|portsmouth.co.uk|punchestownlive.ie|rotherhamadvertiser.co.uk|scotsman.com|seriousaboutrl.com|shieldsgazette.com|shropshirestar.com|stornowaygazette.co.uk|strabaneweekly.co.uk|sunderlandecho.com|surreyworld.co.uk|sussexexpress.co.uk|themoorlander.co.uk|thescarboroughnews.co.uk|thesouthernreporter.co.uk|thestar.co.uk|tipperarylive.ie|torbayweekly.co.uk|totallysnookered.com|tyronecon.co.uk|tyronecourier.co.uk|ulstergazette.co.uk|wakefieldexpress.co.uk|warwickshireworld.com|waterfordlive.ie|wigantoday.net|worksopguardian.co.uk|yorkshireeveningpost.co.uk|yorkshirepost.co.uk|yourlurgan.com
 ||html-load.com^$script,xmlhttprequest,domain=toptenreviews.com|guitarplayer.com|goodto.com|techlearning.com|shortlist.com|realhomes.com|nexttv.com|musicradar.com|gardeningknowhow.com|countrylife.co.uk|tomsguide.com|fourfourtwo.com|musicradar.com|gardeningknowhow.com|techradar.com|gamesradar.com|livescience.com|windowscentral.com|pcgamer.com|tomshardware.com
 ||html-preview-31f12d.previewship.net^
 ||html-produkt34894389.top^
@@ -454462,6 +454546,7 @@ zzzyk.com###Tinfo
 ||hzeetn.natalie.mu^
 ||hzejwxfpexoxw.website^
 ||hzets.com^
+||hzeuuzcdwfldy.space^
 ||hzfhjh.ledscopic.com^
 ||hzgh8czw3nfyyb58vzjvkp1ptk1pt.cfd^
 ||hzgla.shopwss.com^
@@ -455460,6 +455545,7 @@ zzzyk.com###Tinfo
 ||iaaqrwkl.com^
 ||iaarvpjzfnbxr.online^
 ||iaata.org^
+||iaaujulvsclwy.space^
 ||iab-imp-gateway.supersonicads.com^
 ||iab.net^
 ||iabanquedefrance.fr^
@@ -456447,6 +456533,7 @@ zzzyk.com###Tinfo
 ||icebergvetoed.com^
 ||icebns.com^
 ||icebns.com^$third-party
+||icebonepettotamarin.cfd^
 ||iceboxlitre.com^
 ||icebreaker-france.fr^
 ||icebreaker.mom^
@@ -478435,6 +478522,7 @@ zzzyk.com###Tinfo
 ||inwestycyjnyprojekt.com^
 ||inwexcel.com^
 ||inwhcaanqt.com^
+||inwheelmasks.cyou^
 ||inwheelnetts.com^
 ||inwiestycje.online^
 ||inwigilacjaobywateli.pics^
@@ -481342,6 +481430,7 @@ zzzyk.com###Tinfo
 ||isesaludbc.com^
 ||iset.com^
 ||isetansalonedeifiori.com^
+||isetjaobdezlx.website^
 ||isettatech.com^
 ||iseuaa.olx.pl^
 ||isevmuhendislik.com^
@@ -487230,6 +487319,7 @@ zzzyk.com###Tinfo
 ||jc13m9qe.duckdns.org^
 ||jc187888.com^
 ||jc1chp.top^
+||jc29kyhiyn73vrl7t3ek9o.cfd^
 ||jc305.no-ip.biz^
 ||jc32arlvqpv8.com^
 ||jc3wuh.qpon^
@@ -490746,6 +490836,7 @@ zzzyk.com###Tinfo
 ||jjpoq.beautycreationscosmetics.com^
 ||jjpp.lmtjapi.com^
 ||jjpqqbxodpnwc.website^
+||jjqfexilaalwm.space^
 ||jjqlzrxadgi.com^
 ||jjqrz.amputeestore.com^
 ||jjqyqakarveb.com^
@@ -490800,6 +490891,7 @@ zzzyk.com###Tinfo
 ||jjyybsilptuu.org^
 ||jjyybsilptuu.pk^
 ||jjyybsilptuu.su^
+||jjzpfuisklkoh.website^
 ||jjztrz.xyz^
 ||jjzuo.com^
 ||jjzuqyezehdnj.space^
@@ -491546,6 +491638,7 @@ zzzyk.com###Tinfo
 ||jnqahbreekala.space^
 ||jnqbkpsymoads.site^
 ||jnqoanhtsa.xyz^
+||jnqrsizoofjhr.site^
 ||jnqus.essentialelementsnutrition.com^
 ||jnrbnrlbw.xyz^
 ||jnresgvybuzbf.site^
@@ -493830,6 +493923,7 @@ zzzyk.com###Tinfo
 ||jpgo.ru^
 ||jpgpnobrgquzb.site^
 ||jpgqfl.thezaol.com^
+||jpgsqhhnzdqmi.website^
 ||jpgtpbl.cn^
 ||jpgtrk.com^
 ||jpgubykgtkioj.online^
@@ -496314,6 +496408,7 @@ zzzyk.com###Tinfo
 ||jumbaouttold.com^
 ||jumbitr.com^
 ||jumbleashen.store^
+||jumbleddecian.com^
 ||jumblenewsletterdebark.com^
 ||jumbln.com^
 ||jumbo-insurance.pro^
@@ -497756,6 +497851,7 @@ zzzyk.com###Tinfo
 ||jxhfn.xyz^
 ||jxhikyldhuqsz.site^
 ||jxhv.site^
+||jxicccdzobema.site^
 ||jxicl82677cd4831.top^
 ||jxihpj.shinanoyusui.jp^
 ||jxiiwldewtdql.online^
@@ -499484,6 +499580,7 @@ zzzyk.com###Tinfo
 ||kairento.com^
 ||kairevato.com^
 ||kairezano.net^
+||kairinecoyish.com^
 ||kairinrazeingbiform.cfd^
 ||kairion.de^
 ||kairoinvestesto.net^
@@ -499904,6 +500001,7 @@ zzzyk.com###Tinfo
 ||kam.zyskon.top^
 ||kam12uiehuqrw.tk^
 ||kamabork.live^
+||kamachifleabug.cfd^
 ||kamachilinins.com^
 ||kamagra-pills-rx.com^
 ||kamagradct.com^
@@ -504992,6 +505090,7 @@ zzzyk.com###Tinfo
 ||khewwakrywmgxr.com^
 ||khezmsrqwmnxm.space^
 ||khf.r6uemr.casa^
+||khfiqscaoanhq.space^
 ||khfiwx.sephora.com.br^
 ||khfyas.bellybandit.com^
 ||khfzod.cmsnl.com^
@@ -507783,6 +507882,7 @@ zzzyk.com###Tinfo
 ||kkhhaalliidd717.ddns.net^
 ||kkhitlul.top^
 ||kkhq.actonservice.com^
+||kkiawwtir.in^
 ||kkil.shop^
 ||kkilomo.com^
 ||kkipapib.ddns.net^
@@ -513409,6 +513509,7 @@ zzzyk.com###Tinfo
 ||ktdxuexumxvji.space^
 ||kteatwnro.in^
 ||kteawsjm.com^
+||ktebnatenmvaa.site^
 ||kted56erhg.dynssl.com^
 ||kteknitl.com^
 ||ktekroea.com^
@@ -515365,6 +515466,7 @@ zzzyk.com###Tinfo
 ||kxpkzbjpmkpoq.site^
 ||kxploclk.megaxplodenow.online^
 ||kxpoo3go8x.cfd^
+||kxqmhfgjlbkvd.space^
 ||kxrjs.com^
 ||kxrnaomrs.icu^
 ||kxrquxwodfcne.space^
@@ -515487,6 +515589,7 @@ zzzyk.com###Tinfo
 ||kygso.com/js/lrtk.js
 ||kygwbcvevmaoz.store^
 ||kyhimiy4.pro^
+||kyhmzwonysozy.site^
 ||kyhoimuag.com^
 ||kyhrlgqmwotks.website^
 ||kyhuifu.site^
@@ -518133,6 +518236,7 @@ zzzyk.com###Tinfo
 ||laminingraphics.co.za^
 ||lamininsfi.com^
 ||lamiproi.com^
+||lamistapratal.cyou^
 ||lamital.in^
 ||lamkghx.icu^
 ||lamlaojalmam.blogspot.com^
@@ -526522,6 +526626,7 @@ zzzyk.com###Tinfo
 ||librabetcasino.fr^
 ||libradisticaret.com^
 ||libradiver.cyou^
+||libraeturkish.cyou^
 ||librafondex-nl.live^
 ||librairie-adrienne.com^
 ||librairiedemolecules.tt.omtrdc.net^
@@ -526670,6 +526775,7 @@ zzzyk.com###Tinfo
 ||libstat.com^
 ||libstorage.space^
 ||libsu.me^
+||libsunakite.cfd^
 ||libt.ga^
 ||libt.ml^
 ||libte.me^
@@ -548405,6 +548511,7 @@ zzzyk.com###Tinfo
 ||lpvgnb.mingwangknits.com^
 ||lpvrblrtdgmke.space^
 ||lpweb.xyz^
+||lpwkcprxeikfh.online^
 ||lpwsalo.shop^
 ||lpwtbsfgamivm.space^
 ||lpwtdwqu.shop^
@@ -550184,6 +550291,7 @@ zzzyk.com###Tinfo
 ||luggageflinchdew.com^
 ||luggagestores.shop^
 ||luggagesynchronize.com^
+||luggedaswirl.cyou^
 ||luggedzabeta.com^
 ||luggerlongus.guru^
 ||lughane.com^
@@ -552597,6 +552705,7 @@ zzzyk.com###Tinfo
 ||lyveroscentrixtrade.com^
 ||lyvestore.com^
 ||lyvootnkgwxkq.online^
+||lyvsiukvjwzsb.site^
 ||lyvymetkd.com^
 ||lyvyxor.com^
 ||lywakelireal.ga^
@@ -566237,6 +566346,7 @@ zzzyk.com###Tinfo
 ||mashgmaroc.cyou^
 ||mashhadskechers.com^
 ||mashinkhabar.com^
+||mashlamvaginas.cfd^
 ||mashlumgibers.com^
 ||mashmantalpa.digital^
 ||mashopstore.com^
@@ -574223,6 +574333,7 @@ zzzyk.com###Tinfo
 ||menomaffag.cyou^
 ||menopausesymptomstreatments.com^
 ||menorahproductions.org^
+||menorahshtg.cyou^
 ||menorcamindful.com^
 ||menorgoodh.cyou^
 ||menorte.ddns.net^
@@ -581308,6 +581419,7 @@ zzzyk.com###Tinfo
 ||mgft.silkroadtracker.com^
 ||mgftgwuv.shop^
 ||mggakg.littleblack.co.kr^
+||mggcbvkyvnnlv.site^
 ||mggovernor.com^
 ||mggriwnkrnex.com^
 ||mggroupitalia.net^
@@ -587128,6 +587240,7 @@ zzzyk.com###Tinfo
 ||mjutjc.telstarsurf.de^
 ||mjuzs.strutmasters.com^
 ||mjvb60t4g.com^
+||mjvmtmaogdm.com^
 ||mjvvklsjsdddh.space^
 ||mjw.or.kr^
 ||mjwcsqcajfwhi.online^
@@ -594841,6 +594954,7 @@ zzzyk.com###Tinfo
 ||moothbagel.com^
 ||mootingureic.com^
 ||mootje01.no-ip.org^
+||mootmancrouton.cyou^
 ||mootnessve.pl^
 ||moots.no-ip.org^
 ||mootwombsteeple.com^
@@ -605067,6 +605181,7 @@ zzzyk.com###Tinfo
 ||mycerbhost.no-ip.biz^
 ||mycetproat.cyou^
 ||mycgodahub.netlify.app^
+||mycgxpwvcrzvb.space^
 ||mychainlife.xyz^
 ||mychainportal.xyz^
 ||mychance.com^
@@ -608848,6 +608963,7 @@ zzzyk.com###Tinfo
 ||nadzwyczajne.usermd.net^
 ||nae9945juw.cfd^
 ||naebodyeyes.com^
+||naedumqqunjyn.space^
 ||naedyudpxzmgs.online^
 ||naeem335.ddns.net^
 ||naeem336.ddns.net^
@@ -623148,6 +623264,7 @@ zzzyk.com###Tinfo
 ||nlog.instajob.ai^
 ||nlog.nethru.io^
 ||nlog.shinhan.com^
+||nlogizcmjvlnv.space^
 ||nlogn.coinb.avenue-park.com^
 ||nlogs.cloudimgs.net^
 ||nlogs.com^
@@ -629442,6 +629559,7 @@ zzzyk.com###Tinfo
 ||nthfundog.com^
 ||nthjngdfd.otzo.com^
 ||nthldc.europcar.co.uk^
+||nthndnaxsbivv.online^
 ||nthqdiipxpdrg.space^
 ||nthrl.com^
 ||nthrw.com^
@@ -630748,6 +630866,7 @@ zzzyk.com###Tinfo
 ||nvfowikhevmy.net^
 ||nvfpshunedmgf.online^
 ||nvfrd.com^
+||nvgahqeclatgm.site^
 ||nvgezlkkqshtt.online^
 ||nvgnealcimsdq.space^
 ||nvgst8gvjy.com^
@@ -631245,6 +631364,7 @@ zzzyk.com###Tinfo
 ||nxnxnddjjk12323442.weebly.com^
 ||nxovay.fo-online.jp^
 ||nxoyntdzt.com^
+||nxpbhvgwxtpdw.site^
 ||nxprqibx.seesubiaco.com.au^
 ||nxpu.site^
 ||nxpuap.job-con.jp^
@@ -631446,6 +631566,7 @@ zzzyk.com###Tinfo
 ||nygidnqwvcmeu.space^
 ||nygwcwsvnu.com^
 ||nyhamsor-xyz.preview-domain.com^
+||nyhdmzoocskr.com^
 ||nyhebyu.com^
 ||nyhed.danskespil.dk^
 ||nyhedsbrev671.shop^
@@ -637586,6 +637707,7 @@ zzzyk.com###Tinfo
 ||ocyakni.cn^
 ||ocybero.bocageeks.com^
 ||ocycling.com^
+||ocylesrhjgxew.website^
 ||ocynuganda.org^
 ||ocypodemasora.cyou^
 ||oczeilqyw.com^
@@ -639930,6 +640052,7 @@ zzzyk.com###Tinfo
 ||ofkehane.com^
 ||ofkqiy.knowfashionstyle.com^
 ||ofkrabbyr.com^
+||ofktaclgjrjrn.space^
 ||ofktauggqtsckgw.xyz^
 ||ofkvuv.cc^
 ||oflacademy.com^
@@ -641412,6 +641535,7 @@ zzzyk.com###Tinfo
 ||ojkomnzi.com^
 ||ojkskjfkd.yuyinqs.com^
 ||ojktyhegf.mrbonus.com^
+||ojlkimed.vip^
 ||ojlsxt.pigment.co.kr^
 ||ojm4.palladiumhotelgroup.com^
 ||ojmcmmpmzpmys.website^
@@ -648443,6 +648567,7 @@ zzzyk.com###Tinfo
 ||omdivaisg.icu^
 ||omdlenie.icu^
 ||omdlism.com^
+||omdmpixvquqdt.website^
 ||omdritbpeap.com^
 ||omdtmdqytjuu.surf^
 ||ome.no-ip.info^
@@ -660175,6 +660300,7 @@ zzzyk.com###Tinfo
 ||ottpremium-officiel.fr^
 ||ottrisemen.online^
 ||ottstracized.info^
+||otttlscphvlyp.online^
 ||otttqmhdutxgxuy.com^
 ||ottud.mariemur.com^
 ||ottumwaguide.com^
@@ -662221,6 +662347,7 @@ zzzyk.com###Tinfo
 ||owewary.com^
 ||owexe.com^
 ||owexi.com^
+||owfbcxmeafoeb.site^
 ||owfijkhomxdfo.space^
 ||owflibalnnfi.in^
 ||owflqcpifsgg.com^
@@ -662565,6 +662692,7 @@ zzzyk.com###Tinfo
 ||oxiads.fr^
 ||oxibbdmaneuver.info^
 ||oxibet.fr^
+||oxibuovjsjjou.website^
 ||oxiburn.com^
 ||oxicurve.info^
 ||oxidantfestive.net^
@@ -671409,6 +671537,7 @@ zzzyk.com###Tinfo
 ||pay.i-h3dhgj8q3wnzeox7.online^
 ||pay.iagadvanced.com^
 ||pay.ico-eu.xyz^
+||pay.id3410894.com^
 ||pay.inpost.cam^
 ||pay.jtkj99.com^
 ||pay.kaligmanote.info^
@@ -676680,6 +676809,7 @@ zzzyk.com###Tinfo
 ||pevnyhodnotar.net^
 ||pevqdzwyiqkj.com^
 ||pevrksshtngcg.site^
+||pevrucuprvepl.site^
 ||pevsuki.cc^
 ||pevumola.site^
 ||pevzuno.shop^
@@ -678116,6 +678246,7 @@ zzzyk.com###Tinfo
 ||phczfkaoemyuv.site^
 ||phczhg.johnjohndenim.com.br^
 ||phdassistant.com^
+||phdbogeqgpkoo.space^
 ||phdcc.net^
 ||phdenass.com^
 ||phdhrhdsp.s3.amazonaws.com^
@@ -680280,6 +680411,7 @@ zzzyk.com###Tinfo
 ||pikirn-rakyat.net^
 ||pikirn-rakyat.org^
 ||pikleimbalms.com^
+||pikleluxe.com^
 ||piko.nafs.top^
 ||pikohost.ir^
 ||pikoj.g2gbar.com^
@@ -687290,6 +687422,7 @@ zzzyk.com###Tinfo
 ||pleasantinformation.com^
 ||pleasantlyrevenge.com^
 ||pleasantlyvolatiletiptoe.com^
+||pleasantocean.com^
 ||pleasantonchurchofchrist.com^
 ||pleasantoncpr.com^
 ||pleasantpump.com^
@@ -687681,6 +687814,7 @@ zzzyk.com###Tinfo
 ||plista.com^
 ||plisy.warszawa.pl^
 ||plit.ecmx.top^
+||plitchcaph.com^
 ||plitnu.work.gd^
 ||plitspiritnox.com^
 ||plitur.com^
@@ -704080,6 +704214,7 @@ zzzyk.com###Tinfo
 ||propiintav.cyou^
 ||propipolig.cyou^
 ||propitea.fr^
+||propjetgunnel.qpon^
 ||propk.sa.com^
 ||propl.ebr.aventior.com^
 ||propl.schooldocu.com^
@@ -706010,6 +706145,7 @@ zzzyk.com###Tinfo
 ||pskdhall.hopto.org^
 ||pskmail.ru^
 ||pskyaseminyilmaz.com^
+||pskylqxiezawq.space^
 ||pskyteoiohqnv.museum^
 ||pskzt.cleobella.com^
 ||psl-ecoleinterne.inscription.psl.eu^
@@ -710094,6 +710230,7 @@ zzzyk.com###Tinfo
 ||punyagw.my.id^
 ||punyaprast.nl^
 ||punyauang.xyz^
+||punyconvert.com^
 ||punymail.online^
 ||punyplant.com^
 ||punysafety.com^
@@ -712602,6 +712739,7 @@ zzzyk.com###Tinfo
 ||q4nt9xw.skin^
 ||q4scsxd1rpd0fs1i78cb.s3.us-east-1.amazonaws.com^
 ||q4shq4.webwave.dev^
+||q4u5298s.xyz^
 ||q4vx8mn.skin^
 ||q4vx9mn.skin^
 ||q4x8mn.lat^
@@ -714202,6 +714340,7 @@ zzzyk.com###Tinfo
 ||qgxabnszrdns.surf^
 ||qgxbluhsgad.com^
 ||qgxdgxsrfxyyy.online^
+||qgyjjanwpq.com^
 ||qgyltoriun.com^
 ||qgym.com^
 ||qgzaolbggkxis.site^
@@ -716196,6 +716335,7 @@ zzzyk.com###Tinfo
 ||qrhjpzlr.shop^
 ||qrhythmo.cyou^
 ||qri2r94eeajr.innovationcast.com^
+||qriedf.info^
 ||qrigpyenjfbcv.site^
 ||qrimages.qatarairways.com^
 ||qring-tms.qq.com^
@@ -718154,6 +718294,7 @@ zzzyk.com###Tinfo
 ||quickcheckx.github.io^
 ||quickchess.fr^
 ||quickchillshop.com^
+||quickclover.com^
 ||quickcontrolpc.com^
 ||quickcoronatest.net^
 ||quickcove.shop^
@@ -725976,6 +726117,7 @@ zzzyk.com###Tinfo
 ||ratyz.hopto.org^
 ||ratz-laff.com^
 ||ratzor.no-ip.org^
+||ratzwmzaqmmvu.space^
 ||ratzz.no-ip.info^
 ||rau.mystrblg.online^
 ||rauaqroqwvaqg.site^
@@ -738914,6 +739056,7 @@ zzzyk.com###Tinfo
 ||rglzligjrivvg.online^
 ||rgmail.fr^
 ||rgmam.commercialsitefurnishings.com^
+||rgmbm59onfc4xiv.rest^
 ||rgmbu.incauthority.com^
 ||rgmechanics.fun^
 ||rgmechanics.org^
@@ -750044,6 +750187,7 @@ zzzyk.com###Tinfo
 ||rupgzdtrqscrx.site^
 ||rupiahlagi.com^
 ||rupiahpetiroiuy.xyz^
+||rupiahsaku.com^
 ||rupicoretrade.com^
 ||rupicoretrade.net^
 ||rupifyu1.xyz^
@@ -756272,6 +756416,7 @@ zzzyk.com###Tinfo
 ||sakeoxidelunch.com^
 ||sakepremierepace.com^
 ||saker.store^
+||sakeretinanercocus.cyou^
 ||sakerhetsuppdatering-bankid.com^
 ||sakgbykb.com^
 ||sakh-domostroy.ru^
@@ -761006,6 +761151,7 @@ zzzyk.com###Tinfo
 ||sber-host.000webhostapp.com^
 ||sber.cod63.com^
 ||sber.sell2dealer.com^
+||sberbank.id11853502.date^
 ||sberbank.re^
 ||sbercdiffa.cyou^
 ||sberchouse.cyou^
@@ -762975,6 +763121,7 @@ zzzyk.com###Tinfo
 ||scoutdealingdrift.com^
 ||scoutedevirro.space^
 ||scoutedfeedbag.shop^
+||scoutervayu.com^
 ||scouthistory.net^
 ||scouthssocmen.com^
 ||scoutim.com^
@@ -780148,6 +780295,7 @@ zzzyk.com###Tinfo
 ||sextag.fr^
 ||sextansfin.com^
 ||sextape-star.fr^
+||sextb.net/js/popup.js
 ||sexteynyardful.net^
 ||sextf.com^
 ||sexting-sites.com^
@@ -790926,6 +791074,7 @@ zzzyk.com###Tinfo
 ||silesiadeuces.com^
 ||silesianetwork.lovable.app^
 ||silesiawedding.mom^
+||siletzsticta.cfd^
 ||siletzstrome.space^
 ||silexinvestode.net^
 ||silfa-it.com^
@@ -807593,6 +807742,7 @@ zzzyk.com###Tinfo
 ||snokeall.ddns.net^
 ||snokse.zapto.org^
 ||snonnwboundbangers.info^
+||snonsfsrfeh.com^
 ||snoobi.com^
 ||snoobi.eu^
 ||snoodlewink.fun^
@@ -816998,6 +817148,7 @@ zzzyk.com###Tinfo
 ||splendidraisin.thetmjtrick.com^
 ||splendidrelax.com^
 ||splendidroareyelash.com^
+||splendidstone.com^
 ||splendidstore.fr^
 ||splendidsugar.com^
 ||splendidus.net^
@@ -842999,6 +843150,7 @@ zzzyk.com###Tinfo
 ||stillwaterhumancapital.info^
 ||stillwerun.net^
 ||stillworksphotography.com^
+||stillyvasts.cfd^
 ||stilnovo.fr^
 ||stilocristal.com^
 ||stilox.com^
@@ -861789,6 +861941,7 @@ zzzyk.com###Tinfo
 ||tanmqm.andrewandco.co.kr^
 ||tanmuri.shop^
 ||tannahokerly.com^
+||tannasecoart.cfd^
 ||tanne-zinswald.com^
 ||tanne0214.zapto.org^
 ||tannecreed.net^
@@ -869411,6 +869564,7 @@ zzzyk.com###Tinfo
 ||tensinorum-new.org^
 ||tension-offers.com^
 ||tensionbabble.com^
+||tensitymuzzle.qpon^
 ||tensmaer.win^
 ||tensoft.best^
 ||tensoft.biz^
@@ -873392,6 +873546,7 @@ zzzyk.com###Tinfo
 ||tfeableandwo.org^
 ||tfecay.xyz^
 ||tfedyedv23-3y72yec62.weebly.com^
+||tfepsjmtyqaln.website^
 ||tfernzq.com^
 ||tfexcludes.shop^
 ||tfezor-sulte.com^
@@ -879227,6 +879382,7 @@ zzzyk.com###Tinfo
 ||thrawnsrevenge.tt.omtrdc.net^
 ||thraxgawks.guru^
 ||thrchmay.com^
+||thrdkfyjpazml.online^
 ||threaarchi.store^
 ||thread-church-029.notion.site^
 ||thread-whatsapp.com^
@@ -881114,6 +881270,7 @@ zzzyk.com###Tinfo
 ||timasion.xyz^
 ||timauayore.qpon^
 ||timawarner.com^
+||timbalschinookternar.qpon^
 ||timbartlett.info^
 ||timbatumbadanceacademy.live^
 ||timbenonco.rest^
@@ -882727,6 +882884,7 @@ zzzyk.com###Tinfo
 ||tjfot.com^$third-party
 ||tjfr.tk^
 ||tjfskxz0t6.com^
+||tjgeagvhlpxru.site^
 ||tjginde.com^
 ||tjgssn.com^
 ||tjhawaiianjewelry.com^
@@ -883389,6 +883547,7 @@ zzzyk.com###Tinfo
 ||tkynyd710wiw.com^
 ||tkyoyo.com^
 ||tkytthdefsrmf.online^
+||tkyvscxtcdpcf.space^
 ||tkzgz.scrubsandbeyond.com^
 ||tkzvse.whois.co.kr^
 ||tkzx53eoqvzzoe5l.rest^
@@ -884130,6 +884289,7 @@ zzzyk.com###Tinfo
 ||tms.trickntips.com^
 ||tms.virginatlantic.com^
 ||tms.w-insurance.com^
+||tms.wape.autodesk.com^
 ||tms.zwilling.com^
 ||tms12.com^
 ||tms21.edgeone.app^
@@ -884466,6 +884626,7 @@ zzzyk.com###Tinfo
 ||tnpads.xyz^
 ||tnpfv.iconiclondoninc.com^
 ||tnpgdh.cam^
+||tnpltulcpklng.online^
 ||tnportal.go-static.info^
 ||tnpubr.trendhim.ie^
 ||tnqdqs.nusolbio.co.kr^
@@ -889347,6 +889508,7 @@ zzzyk.com###Tinfo
 ||toxiczone.tk^
 ||toxifera.space^
 ||toxineilling.com^
+||toxitymugil.cfd^
 ||toxnwbkoulii.pw^
 ||toxope.world^
 ||toxotaefornent.store^
@@ -908798,6 +908960,7 @@ zzzyk.com###Tinfo
 ||two.unitedhearts.sbs^
 ||two.wrengostic.com^
 ||two0aks.com^
+||two49iri9wlruy.rest^
 ||two4more.com^
 ||twobeebs.com^
 ||twobirdswithonestoned.net^
@@ -909201,6 +909364,7 @@ zzzyk.com###Tinfo
 ||tx888.wang^
 ||tx99y.net^
 ||tx9ff.top^
+||tx9k796ufrtxx4n4vxtm.cfd^
 ||txadvocate.com^
 ||txahz.com/static/image/tp/
 ||txarb.uno^
@@ -912212,6 +912376,7 @@ zzzyk.com###Tinfo
 ||udenygvi.bazar^
 ||udenygyw.bazar^
 ||udeoenm.cn^
+||udeqwcyoflqfe.space^
 ||udeuoyluokbwsozzhzxkvlbpfnbkkz.com^
 ||udev.informedgreetings.com^
 ||udeztrb.cn^
@@ -916854,6 +917019,7 @@ zzzyk.com###Tinfo
 ||unhappypetunevesicle.qpon^
 ||unhappyporkform.com^
 ||unhappyweakness.com^
+||unhaputterparking.cyou^
 ||unharacqua.cyou^
 ||unhash90.hopto.org^
 ||unhaspquartin.com^
@@ -916879,7 +917045,6 @@ zzzyk.com###Tinfo
 ||unhideme.live^
 ||unhidemeets.com^
 ||unhiredendymal.tech^
-||unho.unhesiss.shop^
 ||unhoardyammers.website^
 ||unholactin.cyou^
 ||unholdgink.qpon^
@@ -919158,6 +919323,7 @@ zzzyk.com###Tinfo
 ||uorloy.tokyo^
 ||uorlsblg.cyou^
 ||uormn.cellitas.com^
+||uornybxaeikyl.website^
 ||uosi1b.webwave.dev^
 ||uosqysascuwmqgyk.xyz^
 ||uoss.c2471.cn^
@@ -921638,6 +921804,7 @@ zzzyk.com###Tinfo
 ||ursulapopp.com^
 ||ursularodgers.com^
 ||ursularodgersphotography.com^
+||ursulasodamid.cfd^
 ||ursulawlrs.zapto.org^
 ||ursusltrk.com^
 ||ursuz.com^
@@ -927161,6 +927328,7 @@ zzzyk.com###Tinfo
 ||vaclicinni.xyz^
 ||vaclickul.top^
 ||vacmotorsport.com^
+||vacnslzaefklq.website^
 ||vacompany.co.za^
 ||vaconaamercesksar.qpon^
 ||vaconmohelo.ga^
@@ -930515,6 +930683,7 @@ zzzyk.com###Tinfo
 ||vdnh.cn^
 ||vdnh.online^
 ||vdnigs.pw^
+||vdnlsmogivmuh.site^
 ||vdnq-offers.com^
 ||vdnu32a.com^
 ||vdo.ai^
@@ -965923,6 +966092,7 @@ zzzyk.com###Tinfo
 ||wetuma.ru^
 ||weturowox.xyz^
 ||wetwo.yt^
+||wetxllgrxjthw.website^
 ||wetz.icu^
 ||wetzelhealth.org^
 ||wetzsteinfunker.de^
@@ -967234,6 +967404,7 @@ zzzyk.com###Tinfo
 ||whhwcqkcmvppe.site^
 ||whiagu52.top^
 ||whiaz.ru^
+||whibabelime.qpon^
 ||whibf.com^
 ||whibp.com^
 ||whiceega.com^
@@ -969117,6 +969288,7 @@ zzzyk.com###Tinfo
 ||wiele-glosow.eu^
 ||wielen.boldons.nl^
 ||wielerclubwemmel.be^
+||wielerflits.*/api/site-loader/
 ||wielgor-funder-engine.com^
 ||wielgor-funder.com^
 ||wielgorfunder.cyou^
@@ -974654,6 +974826,7 @@ zzzyk.com###Tinfo
 ||wokcy.com^
 ||woke.leordre.com^
 ||wokecrocodilebane.com^
+||wokefloorer.com^
 ||wokeinteractive.com^
 ||wokemvaulr.info^
 ||wokenoptionalcohabit.com^
@@ -975340,6 +975513,7 @@ zzzyk.com###Tinfo
 ||woollypereia.live^
 ||woolrichfr.fr^
 ||woolrichparis.fr^
+||woolseygatemen.com^
 ||woolstapler.com^
 ||woolworths-mobile.pxf.io^
 ||woolworths-za.us^
@@ -1058789,6 +1058963,7 @@ zzzyk.com###Tinfo
 ||wymien-teraz.info^
 ||wymierneeffekty.site^
 ||wymimtskbceow.space^
+||wymiqruqkyjeu.website^
 ||wymjog14.top^
 ||wymjuy33.top^
 ||wymkjd37.top^
@@ -1061256,6 +1061431,7 @@ zzzyk.com###Tinfo
 ||xclusive.no-ip.org^
 ||xclusivedigital.com^
 ||xclusivehiphop.no-ip.biz^
+||xclvqtodkmkpc.online^
 ||xcmd.xyz^
 ||xcmgperu-undergroup.com^
 ||xcmgri.com^
@@ -1062871,6 +1063047,7 @@ zzzyk.com###Tinfo
 ||xhwojh.nimikoruni.com^
 ||xhwsvvhzozndh.website^
 ||xhxh1988.no-ip.org^
+||xhxkzhpnbz14lrzb4g54g9z.rest^
 ||xhxmhs.ounass.ae^
 ||xhxmwcxglc.com^
 ||xhxnkyy.com^
@@ -1066548,6 +1066725,7 @@ zzzyk.com###Tinfo
 ||xjcaxizqgdgbv.online^
 ||xjchwlvxhakebv.com^
 ||xjchxbcccc.carrd.co^
+||xjcjiqkeznyjn.space^
 ||xjcnrowjkwuae.space^
 ||xjcuwln.com^
 ||xjdfubwlgothk.site^
@@ -1074439,6 +1074617,7 @@ zzzyk.com###Tinfo
 ||xzmauynuxqecg.website^
 ||xzng9zrcihtm9jfs.com^
 ||xznjmpdfeooje.space^
+||xznkqochfqjdv.website^
 ||xznm-ason-ir.ml^
 ||xznrtl.xyz^
 ||xznynq.kubii.fr^
@@ -1074633,6 +1074812,7 @@ zzzyk.com###Tinfo
 ||y208cde2f67f7bc340be008e51d08fca43.cc^
 ||y21r11j.com^
 ||y2291815a1.51mypc.cn^
+||y22erxf4rvklk4o.cfd^
 ||y234y.top^
 ||y2608.com^
 ||y29se10.one^
@@ -1074784,6 +1074964,7 @@ zzzyk.com###Tinfo
 ||y6gefsa.gettrials.com^
 ||y6gsh.duckdns.org^
 ||y6iet9bunjerl62fn598wmq24o84jjwbolz38.cfd^
+||y6ij11oqkbvh2rey3wpvwvcwczfin8rb2.cfd^
 ||y6kaknda.bdl.pl^
 ||y6p7022ep4.com^
 ||y6t1hz.lat^
@@ -1076844,6 +1077025,7 @@ zzzyk.com###Tinfo
 ||yeahnowneede.website^
 ||yeahsara.com^
 ||yeahtargeter.com^
+||yeahteesmile.com^
 ||yeahx3.no-ip.biz^
 ||yeahyeahyeahs.3322.org^
 ||yeahyou.com^
@@ -1076852,6 +1077034,7 @@ zzzyk.com###Tinfo
 ||yealnk.com^
 ||yeamail.store^
 ||yeandle.co.uk^
+||yeanedtelexesmantid.cyou^
 ||yeaonesad.com^
 ||yeap1.jumpingcrab.com^
 ||year-advanced.com^
@@ -1078588,6 +1078771,7 @@ zzzyk.com###Tinfo
 ||yicqq.com^
 ||yicr.com^
 ||yicrdo.amsterdamprinting.com^
+||yictvmtnvjnir.online^
 ||yidantrade.com^
 ||yidaweb.com^
 ||yiddiquitejuk.com^
@@ -1083019,6 +1083203,7 @@ zzzyk.com###Tinfo
 ||yszhthgzjp.com^
 ||yszo.fr^
 ||yszpegh.xyz^
+||yszzq.com/Style/js/date.
 ||yt-adblocker.com^
 ||yt-adp.nosdn.127.net^
 ||yt-adp.ws.126.net^
@@ -1084284,6 +1084469,7 @@ zzzyk.com###Tinfo
 ||ywgrow.com^
 ||ywgtzagvalcaiy.com^
 ||ywguxsetjqvkbirgr.su^
+||ywhcfsztqcfnm.space^
 ||ywhikg.surplex.com^
 ||ywhrqheqsdgry.website^
 ||ywhxqqycbzckobqfxbfzs.org^
@@ -1085191,6 +1085377,7 @@ zzzyk.com###Tinfo
 ||yzenygvi.bazar^
 ||yzenygyw.bazar^
 ||yzerfonteinaccommodation.co.za^
+||yzeuvenxrwujj.site^
 ||yzf0cp.savethemoments.pl^
 ||yzfsqv.com^
 ||yzfyavom.bazar^
@@ -1088417,6 +1088604,7 @@ zzzyk.com###Tinfo
 ||zchicco.top^
 ||zchkz.cn^
 ||zchrome-microsoft.duckdns.org^
+||zchxyoatxarsi.site^
 ||zchxzy.com^
 ||zciasnegopodworka.xyz^
 ||zcih.clotureantifugue.com^
@@ -1093283,6 +1093471,7 @@ zzzyk.com###Tinfo
 ||zltddcyjrswkruotoijdkwgm.com^
 ||zltqrh.icu^
 ||zltron.com^
+||zltst.shop^
 ||zltty3bde6.cfd^
 ||zltuxtlsr.ru^
 ||zltw15tzezi03nbmru.xyz^
@@ -1095550,6 +1095739,7 @@ zzzyk.com###Tinfo
 ||zsoelblag.goasrv.com^
 ||zsoizzlzhfsas.online^
 ||zsojxqnwplhim.online^
+||zsopzwnmooztq.site^
 ||zsoupu.net^
 ||zsp1.ah.be^
 ||zsp1.ah.nl^
@@ -1096066,6 +1096256,7 @@ zzzyk.com###Tinfo
 ||zulvoriaxofficial.fr^
 ||zulvoriaxtrade.com^
 ||zum7cc.oui.sncf^
+||zumam.us^
 ||zumastar.com^
 ||zumatrip.com^
 ||zumba.tampotrust.agency^
@@ -1096525,6 +1096716,7 @@ zzzyk.com###Tinfo
 ||zvun.com^
 ||zvupswjpudcmha.info^
 ||zvustro.ru^
+||zvutgwcnmpnat.website^
 ||zvvcad.com^
 ||zvvg678.xyz^
 ||zvvpcz.puravita.ch^
@@ -1097212,6 +1097404,7 @@ zzzyk.com###Tinfo
 ||zymiterial.com^
 ||zymo.mps.weibo.com^
 ||zymolapple.store^
+||zymominachierastrose.cfd^
 ||zymotic.xyz^
 ||zymphorexzippy.com^
 ||zymubyo1.click^
